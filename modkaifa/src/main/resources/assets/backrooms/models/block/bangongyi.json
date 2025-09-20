@@ -1,0 +1,9 @@
+{
+  "parent": "backrooms:custom/level4bangongyi",
+  "textures": {
+    "all": "backrooms:block/level4bangongyi",
+    "particle": "backrooms:block/level4bangongyi",
+    "0": "backrooms:block/level4bangongyi"
+  },
+  "render_type": "solid"
+}

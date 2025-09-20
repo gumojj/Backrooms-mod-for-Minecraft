@@ -1,0 +1,168 @@
+
+/*
+ *    MCreator note: This file will be REGENERATED on each build.
+ */
+package net.mcreator.backrooms.init;
+
+import net.minecraftforge.registries.RegistryObject;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.common.ForgeSpawnEggItem;
+
+import net.minecraft.world.level.block.Block;
+import net.minecraft.world.item.Item;
+import net.minecraft.world.item.BlockItem;
+
+import net.mcreator.backrooms.item.ZhengguanemptyItem;
+import net.mcreator.backrooms.item.YiliaobaoItem;
+import net.mcreator.backrooms.item.XxiaofangfuItem;
+import net.mcreator.backrooms.item.UschoolItem;
+import net.mcreator.backrooms.item.SuperxrsItem;
+import net.mcreator.backrooms.item.SsxsItem;
+import net.mcreator.backrooms.item.SixFortySevenItem;
+import net.mcreator.backrooms.item.SamuraiswordItem;
+import net.mcreator.backrooms.item.RrouguantouItem;
+import net.mcreator.backrooms.item.RouguantoukongItem;
+import net.mcreator.backrooms.item.RabbitdaItem;
+import net.mcreator.backrooms.item.RUNItem;
+import net.mcreator.backrooms.item.PobuItem;
+import net.mcreator.backrooms.item.OneDollarItem;
+import net.mcreator.backrooms.item.Object5tgyouhaifeiliaoItem;
+import net.mcreator.backrooms.item.Object2cjmylv6Item;
+import net.mcreator.backrooms.item.Object2cjmylv4Item;
+import net.mcreator.backrooms.item.Object1xrsItem;
+import net.mcreator.backrooms.item.Object16hjklItem;
+import net.mcreator.backrooms.item.LvshuguantoukongItem;
+import net.mcreator.backrooms.item.LvshuguantouItem;
+import net.mcreator.backrooms.item.LsspemptyItem;
+import net.mcreator.backrooms.item.LsspItem;
+import net.mcreator.backrooms.item.LiandaoItem;
+import net.mcreator.backrooms.item.LeveloItem;
+import net.mcreator.backrooms.item.Level0Item;
+import net.mcreator.backrooms.item.JinggunItem;
+import net.mcreator.backrooms.item.IKunGoldSongItem;
+import net.mcreator.backrooms.item.GaoerfuqiubangItem;
+import net.mcreator.backrooms.item.FruitsguantouemptyItem;
+import net.mcreator.backrooms.item.FruitsguantouItem;
+import net.mcreator.backrooms.item.FruitsdaoItem;
+import net.mcreator.backrooms.item.FiveCentsItem;
+import net.mcreator.backrooms.item.Dreamcore1Item;
+import net.mcreator.backrooms.item.CsItem;
+import net.mcreator.backrooms.item.ColaemptyItem;
+import net.mcreator.backrooms.item.ColaItem;
+import net.mcreator.backrooms.item.ChuiziItem;
+import net.mcreator.backrooms.item.CaidaoItem;
+import net.mcreator.backrooms.item.BishouItem;
+import net.mcreator.backrooms.item.BengdaiItem;
+import net.mcreator.backrooms.item.BackroomItem;
+import net.mcreator.backrooms.BackroomsMod;
+
+public class BackroomsModItems {
+	public static final DeferredRegister<Item> REGISTRY = DeferredRegister.create(ForgeRegistries.ITEMS, BackroomsMod.MODID);
+	public static final RegistryObject<Item> LEVEL_0QIANGZHI = block(BackroomsModBlocks.LEVEL_0QIANGZHI);
+	public static final RegistryObject<Item> LEVEL_0QIANGZHITIEDI = block(BackroomsModBlocks.LEVEL_0QIANGZHITIEDI);
+	public static final RegistryObject<Item> LEVEL_0DIBAN = block(BackroomsModBlocks.LEVEL_0DIBAN);
+	public static final RegistryObject<Item> LEVEL_0TIANHUABAN = block(BackroomsModBlocks.LEVEL_0TIANHUABAN);
+	public static final RegistryObject<Item> LEVEL_0LIGHTS = block(BackroomsModBlocks.LEVEL_0LIGHTS);
+	public static final RegistryObject<Item> JLEVEL_0QIANGZHI = block(BackroomsModBlocks.JLEVEL_0QIANGZHI);
+	public static final RegistryObject<Item> JLEVEL_0QIANGZHITIEDI = block(BackroomsModBlocks.JLEVEL_0QIANGZHITIEDI);
+	public static final RegistryObject<Item> JLEVEL_0DIBAN = block(BackroomsModBlocks.JLEVEL_0DIBAN);
+	public static final RegistryObject<Item> LEVEL_0O_2DITAN = block(BackroomsModBlocks.LEVEL_0O_2DITAN);
+	public static final RegistryObject<Item> LEVEL_0O_2QIANGBI = block(BackroomsModBlocks.LEVEL_0O_2QIANGBI);
+	public static final RegistryObject<Item> LEVEL_0O_2QIANGBITIEDI = block(BackroomsModBlocks.LEVEL_0O_2QIANGBITIEDI);
+	public static final RegistryObject<Item> ONE_DOLLAR = REGISTRY.register("one_dollar", () -> new OneDollarItem());
+	public static final RegistryObject<Item> OBJECT_5TGYOUHAIFEILIAO = REGISTRY.register("object_5tgyouhaifeiliao", () -> new Object5tgyouhaifeiliaoItem());
+	public static final RegistryObject<Item> XXIAOFANGFU = REGISTRY.register("xxiaofangfu", () -> new XxiaofangfuItem());
+	public static final RegistryObject<Item> LVSHUGUANTOUKONG = REGISTRY.register("lvshuguantoukong", () -> new LvshuguantoukongItem());
+	public static final RegistryObject<Item> ROUGUANTOUKONG = REGISTRY.register("rouguantoukong", () -> new RouguantoukongItem());
+	public static final RegistryObject<Item> COLAEMPTY = REGISTRY.register("colaempty", () -> new ColaemptyItem());
+	public static final RegistryObject<Item> GAOERFUQIUBANG = REGISTRY.register("gaoerfuqiubang", () -> new GaoerfuqiubangItem());
+	public static final RegistryObject<Item> JINGGUN = REGISTRY.register("jinggun", () -> new JinggunItem());
+	public static final RegistryObject<Item> ZHENGGUANEMPTY = REGISTRY.register("zhengguanempty", () -> new ZhengguanemptyItem());
+	public static final RegistryObject<Item> LIANDAO = REGISTRY.register("liandao", () -> new LiandaoItem());
+	public static final RegistryObject<Item> FRUITSGUANTOUEMPTY = REGISTRY.register("fruitsguantouempty", () -> new FruitsguantouemptyItem());
+	public static final RegistryObject<Item> LSSPEMPTY = REGISTRY.register("lsspempty", () -> new LsspemptyItem());
+	public static final RegistryObject<Item> CAIDAO = REGISTRY.register("caidao", () -> new CaidaoItem());
+	public static final RegistryObject<Item> FRUITSDAO = REGISTRY.register("fruitsdao", () -> new FruitsdaoItem());
+	public static final RegistryObject<Item> SAMURAISWORD = REGISTRY.register("samuraisword", () -> new SamuraiswordItem());
+	public static final RegistryObject<Item> CHUIZI = REGISTRY.register("chuizi", () -> new ChuiziItem());
+	public static final RegistryObject<Item> BISHOU = REGISTRY.register("bishou", () -> new BishouItem());
+	public static final RegistryObject<Item> ENTITY_3SMILER_SPAWN_EGG = REGISTRY.register("entity_3smiler_spawn_egg", () -> new ForgeSpawnEggItem(BackroomsModEntities.ENTITY_3SMILER, -16777216, -1, new Item.Properties()));
+	public static final RegistryObject<Item> POBU = REGISTRY.register("pobu", () -> new PobuItem());
+	public static final RegistryObject<Item> ME_GFANGDANBOLI = block(BackroomsModBlocks.ME_GFANGDANBOLI);
+	public static final RegistryObject<Item> LEVEL_1QIANGBI = block(BackroomsModBlocks.LEVEL_1QIANGBI);
+	public static final RegistryObject<Item> LEVEL_1QIANGBIKAILIE = block(BackroomsModBlocks.LEVEL_1QIANGBIKAILIE);
+	public static final RegistryObject<Item> LEVEL_1QIANGBITIEZHITOP = block(BackroomsModBlocks.LEVEL_1QIANGBITIEZHITOP);
+	public static final RegistryObject<Item> LEVEL_1QIANGBITIEZHI = block(BackroomsModBlocks.LEVEL_1QIANGBITIEZHI);
+	public static final RegistryObject<Item> LEVEL_1QIANGBIWHITE = block(BackroomsModBlocks.LEVEL_1QIANGBIWHITE);
+	public static final RegistryObject<Item> LEVEL_1QIANGBIWHITEBROKEN = block(BackroomsModBlocks.LEVEL_1QIANGBIWHITEBROKEN);
+	public static final RegistryObject<Item> JLEVEL_1QIANGBI = block(BackroomsModBlocks.JLEVEL_1QIANGBI);
+	public static final RegistryObject<Item> ENTITY_15BEISHI_SPAWN_EGG = REGISTRY.register("entity_15beishi_spawn_egg", () -> new ForgeSpawnEggItem(BackroomsModEntities.ENTITY_15BEISHI, -7856867, -3157664, new Item.Properties()));
+	public static final RegistryObject<Item> ENTITY_8LIEQUAN_SPAWN_EGG = REGISTRY.register("entity_8liequan_spawn_egg", () -> new ForgeSpawnEggItem(BackroomsModEntities.ENTITY_8LIEQUAN, -6906829, -16777216, new Item.Properties()));
+	public static final RegistryObject<Item> LEVEL_1QIANGBIWITHF = block(BackroomsModBlocks.LEVEL_1QIANGBIWITHF);
+	public static final RegistryObject<Item> JLEVEL_1QIANGBIWHITE = block(BackroomsModBlocks.JLEVEL_1QIANGBIWHITE);
+	public static final RegistryObject<Item> ENTITY_10QIEPIZHE_SPAWN_EGG = REGISTRY.register("entity_10qiepizhe_spawn_egg", () -> new ForgeSpawnEggItem(BackroomsModEntities.ENTITY_10QIEPIZHE, -13312, -7901424, new Item.Properties()));
+	public static final RegistryObject<Item> ENTITY_9WUMIANLIN_SPAWN_EGG = REGISTRY.register("entity_9wumianlin_spawn_egg", () -> new ForgeSpawnEggItem(BackroomsModEntities.ENTITY_9WUMIANLIN, -16724788, -154, new Item.Properties()));
+	public static final RegistryObject<Item> XINCUNZHE_SPAWN_EGG = REGISTRY.register("xincunzhe_spawn_egg", () -> new ForgeSpawnEggItem(BackroomsModEntities.XINCUNZHE, -16724788, -5938142, new Item.Properties()));
+	public static final RegistryObject<Item> LEVEL_1LIGHTS = block(BackroomsModBlocks.LEVEL_1LIGHTS);
+	public static final RegistryObject<Item> LEVEL_1SHUIGUANHUI = block(BackroomsModBlocks.LEVEL_1SHUIGUANHUI);
+	public static final RegistryObject<Item> LEVEL_1SHUIGUAN_THUI = block(BackroomsModBlocks.LEVEL_1SHUIGUAN_THUI);
+	public static final RegistryObject<Item> LEVEL_1SHUIGUANSHIZI = block(BackroomsModBlocks.LEVEL_1SHUIGUANSHIZI);
+	public static final RegistryObject<Item> LEVEL_1SHUIGUANZWHUI = block(BackroomsModBlocks.LEVEL_1SHUIGUANZWHUI);
+	public static final RegistryObject<Item> LEVEL_0 = REGISTRY.register("level_0", () -> new Level0Item());
+	public static final RegistryObject<Item> SPBLOCK_1 = block(BackroomsModBlocks.SPBLOCK_1);
+	public static final RegistryObject<Item> LEVEL_998QIANGBI = block(BackroomsModBlocks.LEVEL_998QIANGBI);
+	public static final RegistryObject<Item> LEVEL_998QIANGBITIEDI = block(BackroomsModBlocks.LEVEL_998QIANGBITIEDI);
+	public static final RegistryObject<Item> LEVEL_998SHYDIABAN = block(BackroomsModBlocks.LEVEL_998SHYDIABAN);
+	public static final RegistryObject<Item> LEVEL_998SHYDIBAN_2 = block(BackroomsModBlocks.LEVEL_998SHYDIBAN_2);
+	public static final RegistryObject<Item> LEVEL_998SKYDIBAN_3 = block(BackroomsModBlocks.LEVEL_998SKYDIBAN_3);
+	public static final RegistryObject<Item> LEVEL_998TOLEVEL_999 = block(BackroomsModBlocks.LEVEL_998TOLEVEL_999);
+	public static final RegistryObject<Item> LEVEL_14LEAVES = block(BackroomsModBlocks.LEVEL_14LEAVES);
+	public static final RegistryObject<Item> LEVEL_14TREEGAN = block(BackroomsModBlocks.LEVEL_14TREEGAN);
+	public static final RegistryObject<Item> SPBLOCK_3 = block(BackroomsModBlocks.SPBLOCK_3);
+	public static final RegistryObject<Item> LEVEL_6QIANGBI = block(BackroomsModBlocks.LEVEL_6QIANGBI);
+	public static final RegistryObject<Item> LEVEL_2QIANGBI = block(BackroomsModBlocks.LEVEL_2QIANGBI);
+	public static final RegistryObject<Item> LEVEL_2DIBAN = block(BackroomsModBlocks.LEVEL_2DIBAN);
+	public static final RegistryObject<Item> LEVEL_2SHUIGUAN = block(BackroomsModBlocks.LEVEL_2SHUIGUAN);
+	public static final RegistryObject<Item> LEVEL_2SHUIGUANZHUANWAN = block(BackroomsModBlocks.LEVEL_2SHUIGUANZHUANWAN);
+	public static final RegistryObject<Item> LEVEL_2SHUIGUANSHIZI = block(BackroomsModBlocks.LEVEL_2SHUIGUANSHIZI);
+	public static final RegistryObject<Item> LEVEL_2SHUIGUANT = block(BackroomsModBlocks.LEVEL_2SHUIGUANT);
+	public static final RegistryObject<Item> SUNLIGHTS = block(BackroomsModBlocks.SUNLIGHTS);
+	public static final RegistryObject<Item> OBJECT_16HJKL = REGISTRY.register("object_16hjkl", () -> new Object16hjklItem());
+	public static final RegistryObject<Item> LVSHUGUANTOU = REGISTRY.register("lvshuguantou", () -> new LvshuguantouItem());
+	public static final RegistryObject<Item> RROUGUANTOU = REGISTRY.register("rrouguantou", () -> new RrouguantouItem());
+	public static final RegistryObject<Item> COLA = REGISTRY.register("cola", () -> new ColaItem());
+	public static final RegistryObject<Item> SSXS = REGISTRY.register("ssxs", () -> new SsxsItem());
+	public static final RegistryObject<Item> YILIAOBAO = REGISTRY.register("yiliaobao", () -> new YiliaobaoItem());
+	public static final RegistryObject<Item> FRUITSGUANTOU = REGISTRY.register("fruitsguantou", () -> new FruitsguantouItem());
+	public static final RegistryObject<Item> LSSP = REGISTRY.register("lssp", () -> new LsspItem());
+	public static final RegistryObject<Item> OBJECT_1XRS = REGISTRY.register("object_1xrs", () -> new Object1xrsItem());
+	public static final RegistryObject<Item> BENGDAI = REGISTRY.register("bengdai", () -> new BengdaiItem());
+	public static final RegistryObject<Item> SUPERXRS = REGISTRY.register("superxrs", () -> new SuperxrsItem());
+	public static final RegistryObject<Item> MIEHUOQI = block(BackroomsModBlocks.MIEHUOQI);
+	public static final RegistryObject<Item> LEVEL_4QIANGBI = block(BackroomsModBlocks.LEVEL_4QIANGBI);
+	public static final RegistryObject<Item> LEVEL_4TIANHUABAN = block(BackroomsModBlocks.LEVEL_4TIANHUABAN);
+	public static final RegistryObject<Item> LEVEL_4TIANHUABANWITHOUTLED = block(BackroomsModBlocks.LEVEL_4TIANHUABANWITHOUTLED);
+	public static final RegistryObject<Item> BANGONGYI = block(BackroomsModBlocks.BANGONGYI);
+	public static final RegistryObject<Item> EXIT = block(BackroomsModBlocks.EXIT);
+	public static final RegistryObject<Item> FIVE_CENTS = REGISTRY.register("five_cents", () -> new FiveCentsItem());
+	public static final RegistryObject<Item> LEVEL_3QIANGBIZHITIEDI = block(BackroomsModBlocks.LEVEL_3QIANGBIZHITIEDI);
+	public static final RegistryObject<Item> LEVEL_3DIBAN = block(BackroomsModBlocks.LEVEL_3DIBAN);
+	public static final RegistryObject<Item> OBJECT_2CJMYLV_4 = REGISTRY.register("object_2cjmylv_4", () -> new Object2cjmylv4Item());
+	public static final RegistryObject<Item> OBJECT_2CJMYLV_6 = REGISTRY.register("object_2cjmylv_6", () -> new Object2cjmylv6Item());
+	public static final RegistryObject<Item> RUN = REGISTRY.register("run", () -> new RUNItem());
+	public static final RegistryObject<Item> LEVELO = REGISTRY.register("levelo", () -> new LeveloItem());
+	public static final RegistryObject<Item> BACKROOM = REGISTRY.register("backroom", () -> new BackroomItem());
+	public static final RegistryObject<Item> CS = REGISTRY.register("cs", () -> new CsItem());
+	public static final RegistryObject<Item> RABBITDA = REGISTRY.register("rabbitda", () -> new RabbitdaItem());
+	public static final RegistryObject<Item> USCHOOL = REGISTRY.register("uschool", () -> new UschoolItem());
+	public static final RegistryObject<Item> SIX_FORTY_SEVEN = REGISTRY.register("six_forty_seven", () -> new SixFortySevenItem());
+	public static final RegistryObject<Item> I_KUN_GOLD_SONG = REGISTRY.register("i_kun_gold_song", () -> new IKunGoldSongItem());
+	public static final RegistryObject<Item> DREAMCORE_1 = REGISTRY.register("dreamcore_1", () -> new Dreamcore1Item());
+
+	// Start of user code block custom items
+	// End of user code block custom items
+	private static RegistryObject<Item> block(RegistryObject<Block> block) {
+		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties()));
+	}
+}

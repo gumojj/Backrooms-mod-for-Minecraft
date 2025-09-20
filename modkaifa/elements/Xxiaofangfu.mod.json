@@ -1,0 +1,36 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "xiaofantgfutoua",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "消防斧",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:CommonThing"
+      }
+    ],
+    "efficiency": 6.0,
+    "attackSpeed": 1.0999999999999999,
+    "enchantability": 14,
+    "damageVsEntity": 9.0,
+    "usageCount": 1144,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "immuneToFire": true,
+    "blockDropsTier": "WOOD",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

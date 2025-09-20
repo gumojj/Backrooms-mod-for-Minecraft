@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "backrooms:block/bangongyi"
+    },
+    "facing=east": {
+      "model": "backrooms:block/bangongyi",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "backrooms:block/bangongyi",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "backrooms:block/bangongyi",
+      "y": 270
+    }
+  }
+}

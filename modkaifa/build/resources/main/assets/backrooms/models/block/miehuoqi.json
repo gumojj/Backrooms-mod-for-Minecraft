@@ -1,0 +1,9 @@
+{
+  "parent": "backrooms:custom/miehuoqi",
+  "textures": {
+    "all": "backrooms:block/miehuoqi",
+    "particle": "backrooms:block/miehuoqi",
+    "0": "backrooms:block/miehuoqi"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 73,
+  "_type": "tab",
+  "definition": {
+    "name": "生存物品",
+    "icon": {
+      "value": "CUSTOM:Rrouguantou"
+    },
+    "showSearch": false
+  }
+}

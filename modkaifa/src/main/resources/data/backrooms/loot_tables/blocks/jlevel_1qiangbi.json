@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "backrooms:blocks/jlevel_1qiangbi",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "backrooms:jlevel_1qiangbi"
+        }
+      ]
+    }
+  ]
+}

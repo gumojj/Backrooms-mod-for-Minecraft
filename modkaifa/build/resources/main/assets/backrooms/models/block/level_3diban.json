@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "backrooms:block/level_3diban",
+    "up": "backrooms:block/level_3diban",
+    "north": "backrooms:block/level_3diban",
+    "east": "backrooms:block/level_3diban",
+    "south": "backrooms:block/level_3diban",
+    "west": "backrooms:block/level_3diban",
+    "particle": "backrooms:block/level_3diban"
+  },
+  "render_type": "solid"
+}

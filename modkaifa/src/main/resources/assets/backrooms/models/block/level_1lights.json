@@ -1,0 +1,9 @@
+{
+  "parent": "backrooms:custom/level1lightsaaaa",
+  "textures": {
+    "all": "backrooms:block/level1lights4",
+    "particle": "backrooms:block/level1lights4",
+    "0": "backrooms:block/level1lights4"
+  },
+  "render_type": "cutout"
+}

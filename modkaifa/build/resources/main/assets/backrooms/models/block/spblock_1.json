@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "backrooms:block/spblocka",
+    "up": "backrooms:block/spblocka",
+    "north": "backrooms:block/spblocka",
+    "east": "backrooms:block/spblocka",
+    "south": "backrooms:block/spblocka",
+    "west": "backrooms:block/spblocka",
+    "particle": "backrooms:block/spblocka"
+  },
+  "render_type": "solid"
+}

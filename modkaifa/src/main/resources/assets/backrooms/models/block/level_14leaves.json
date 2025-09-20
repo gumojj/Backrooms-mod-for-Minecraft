@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "backrooms:block/level14leaves",
+    "up": "backrooms:block/level14leaves",
+    "north": "backrooms:block/level14leaves",
+    "east": "backrooms:block/level14leaves",
+    "south": "backrooms:block/level14leaves",
+    "west": "backrooms:block/level14leaves",
+    "particle": "backrooms:block/level14leaves"
+  },
+  "render_type": "solid"
+}

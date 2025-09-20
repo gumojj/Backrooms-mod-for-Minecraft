@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "backrooms:block/fangdanboli",
+    "up": "backrooms:block/fangdanboli",
+    "north": "backrooms:block/fangdanboli",
+    "east": "backrooms:block/fangdanboli",
+    "south": "backrooms:block/fangdanboli",
+    "west": "backrooms:block/fangdanboli",
+    "particle": "backrooms:block/fangdanboli"
+  },
+  "render_type": "cutout"
+}

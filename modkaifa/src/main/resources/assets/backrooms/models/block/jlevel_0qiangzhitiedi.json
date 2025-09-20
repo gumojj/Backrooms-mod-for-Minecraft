@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "backrooms:block/level0dibanv2",
+    "up": "backrooms:block/level0qiangbv2",
+    "north": "backrooms:block/leve0qiangbitiediv2",
+    "east": "backrooms:block/leve0qiangbitiediv2",
+    "south": "backrooms:block/leve0qiangbitiediv2",
+    "west": "backrooms:block/leve0qiangbitiediv2",
+    "particle": "backrooms:block/level0dibanv2"
+  },
+  "render_type": "solid"
+}

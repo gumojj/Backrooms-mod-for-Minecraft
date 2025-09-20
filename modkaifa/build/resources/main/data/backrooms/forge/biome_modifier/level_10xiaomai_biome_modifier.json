@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "backrooms:level_10xiaomai",
+  "step": "surface_structures"
+}

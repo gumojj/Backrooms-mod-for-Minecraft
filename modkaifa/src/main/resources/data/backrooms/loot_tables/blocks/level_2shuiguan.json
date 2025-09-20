@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "backrooms:blocks/level_2shuiguan",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "backrooms:level_2shuiguan"
+        }
+      ]
+    }
+  ]
+}

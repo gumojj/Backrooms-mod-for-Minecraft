@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "backrooms:level_10cangkuatac",
+  "step": "surface_structures"
+}

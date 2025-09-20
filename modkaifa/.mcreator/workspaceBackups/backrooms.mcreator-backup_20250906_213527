@@ -1,0 +1,3267 @@
+{
+  "mod_elements": [
+    {
+      "name": "Level0qiangzhi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0qiangzhi",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_0qiangzhi.json",
+          "src/main/resources/assets/backrooms/models/item/level_0qiangzhi.json",
+          "src/main/resources/assets/backrooms/models/block/level_0qiangzhi.json",
+          "src/main/java/net/mcreator/backrooms/block/Level0qiangzhiBlock.java",
+          "src/main/resources/assets/backrooms/blockstates/level_0qiangzhi.json"
+        ]
+      },
+      "path": "~/level0"
+    },
+    {
+      "name": "Backrooms",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backrooms",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Level0qiangzhitiedi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0qiangzhitiedi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/level_0qiangzhitiedi.json",
+          "src/main/java/net/mcreator/backrooms/block/Level0qiangzhitiediBlock.java",
+          "src/main/resources/assets/backrooms/models/item/level_0qiangzhitiedi.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_0qiangzhitiedi.json",
+          "src/main/resources/assets/backrooms/blockstates/level_0qiangzhitiedi.json"
+        ]
+      },
+      "path": "~/level0"
+    },
+    {
+      "name": "Level0diban",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0diban",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/level_0diban.json",
+          "src/main/java/net/mcreator/backrooms/block/Level0dibanBlock.java",
+          "src/main/resources/assets/backrooms/models/item/level_0diban.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_0diban.json",
+          "src/main/resources/assets/backrooms/blockstates/level_0diban.json"
+        ]
+      },
+      "path": "~/level0"
+    },
+    {
+      "name": "Level0tianhuaban",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0tianhuaban",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_0tianhuaban.json",
+          "src/main/resources/assets/backrooms/blockstates/level_0tianhuaban.json",
+          "src/main/java/net/mcreator/backrooms/block/Level0tianhuabanBlock.java",
+          "src/main/resources/assets/backrooms/models/block/level_0tianhuaban.json",
+          "src/main/resources/assets/backrooms/models/item/level_0tianhuaban.json"
+        ]
+      },
+      "path": "~/level0"
+    },
+    {
+      "name": "Level0lights",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0lights",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/level_0lights.json",
+          "src/main/resources/assets/backrooms/blockstates/level_0lights.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_0lights.json",
+          "src/main/java/net/mcreator/backrooms/block/Level0lightsBlock.java",
+          "src/main/resources/assets/backrooms/models/item/level_0lights.json"
+        ]
+      },
+      "path": "~/level0"
+    },
+    {
+      "name": "Level0firstpicture",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0firstpicture",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/zaxiang"
+    },
+    {
+      "name": "Jlevel0qiangzhi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jlevel_0qiangzhi",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/loot_tables/blocks/jlevel_0qiangzhi.json",
+          "src/main/resources/assets/backrooms/blockstates/jlevel_0qiangzhi.json",
+          "src/main/resources/assets/backrooms/models/item/jlevel_0qiangzhi.json",
+          "src/main/java/net/mcreator/backrooms/block/Jlevel0qiangzhiBlock.java",
+          "src/main/resources/assets/backrooms/models/block/jlevel_0qiangzhi.json"
+        ]
+      },
+      "path": "~/level0/jia_blocks"
+    },
+    {
+      "name": "Jlevel0qiangzhitiedi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jlevel_0qiangzhitiedi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/jlevel_0qiangzhitiedi.json",
+          "src/main/resources/assets/backrooms/blockstates/jlevel_0qiangzhitiedi.json",
+          "src/main/resources/assets/backrooms/models/item/jlevel_0qiangzhitiedi.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/jlevel_0qiangzhitiedi.json",
+          "src/main/java/net/mcreator/backrooms/block/Jlevel0qiangzhitiediBlock.java"
+        ]
+      },
+      "path": "~/level0/jia_blocks"
+    },
+    {
+      "name": "Jlevel0diban",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jlevel_0diban",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/block/Jlevel0dibanBlock.java",
+          "src/main/resources/assets/backrooms/models/item/jlevel_0diban.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/jlevel_0diban.json",
+          "src/main/resources/assets/backrooms/blockstates/jlevel_0diban.json",
+          "src/main/resources/assets/backrooms/models/block/jlevel_0diban.json"
+        ]
+      },
+      "path": "~/level0/jia_blocks"
+    },
+    {
+      "name": "TheBackroomsjiafangkuai",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_backroomsjiafangkuai",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "Level0o2ditan",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0o_2ditan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/block/Level0o2ditanBlock.java",
+          "src/main/resources/assets/backrooms/models/item/level_0o_2ditan.json",
+          "src/main/resources/assets/backrooms/models/block/level_0o_2ditan.json",
+          "src/main/resources/assets/backrooms/blockstates/level_0o_2ditan.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_0o_2ditan.json"
+        ]
+      },
+      "path": "~/level0/level0.2"
+    },
+    {
+      "name": "Level0o2qiangbi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0o_2qiangbi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/blockstates/level_0o_2qiangbi.json",
+          "src/main/resources/assets/backrooms/models/item/level_0o_2qiangbi.json",
+          "src/main/java/net/mcreator/backrooms/block/Level0o2qiangbiBlock.java",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_0o_2qiangbi.json",
+          "src/main/resources/assets/backrooms/models/block/level_0o_2qiangbi.json"
+        ]
+      },
+      "path": "~/level0/level0.2"
+    },
+    {
+      "name": "Level0o2qiangbitiedi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0o_2qiangbitiedi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/blockstates/level_0o_2qiangbitiedi.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_0o_2qiangbitiedi.json",
+          "src/main/resources/assets/backrooms/models/block/level_0o_2qiangbitiedi.json",
+          "src/main/resources/assets/backrooms/models/item/level_0o_2qiangbitiedi.json",
+          "src/main/java/net/mcreator/backrooms/block/Level0o2qiangbitiediBlock.java"
+        ]
+      },
+      "path": "~/level0/level0.2"
+    },
+    {
+      "name": "FlyDangMingLingBeiZhiXingShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fly_dang_ming_ling_bei_zhi_xing_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/FlyDangMingLingBeiZhiXingShiProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Fly",
+      "type": "command",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fly",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/command/FlyCommand.java"
+        ]
+      },
+      "path": "~/zaxiang"
+    },
+    {
+      "name": "BackroomsItems",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backrooms_items",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/tongyongwuping"
+    },
+    {
+      "name": "OneDollar",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "one_dollar",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/OneDollarItem.java",
+          "src/main/resources/assets/backrooms/models/item/one_dollar.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "CommonThing",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "common_thing",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Object5tgyouhaifeiliaoDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "object_5tgyouhaifeiliao_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/Object5tgyouhaifeiliaoDangYouJianDianJiKongQiShiProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Object5tgyouhaifeiliao",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "object_5tgyouhaifeiliao",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/Object5tgyouhaifeiliaoItem.java",
+          "src/main/resources/assets/backrooms/models/item/object_5tgyouhaifeiliao.json"
+        ]
+      },
+      "path": "~/tongyongwuping/Object 5tg/youhaifeiliao"
+    },
+    {
+      "name": "Object16hjklDangYouJianDianJiKongQiShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "object_16hjkl_dang_you_jian_dian_ji_kong_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/Object16hjklDangYouJianDianJiKongQiShiProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Xxiaofangfu",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xxiaofangfu",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/xxiaofangfu.json",
+          "src/main/java/net/mcreator/backrooms/item/XxiaofangfuItem.java"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Lvshuguantoukong",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lvshuguantoukong",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/LvshuguantoukongItem.java",
+          "src/main/resources/assets/backrooms/models/item/lvshuguantoukong.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Rouguantoukong",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rouguantoukong",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/rouguantoukong.json",
+          "src/main/java/net/mcreator/backrooms/item/RouguantoukongItem.java"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Colaempty",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "colaempty",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/colaempty.json",
+          "src/main/java/net/mcreator/backrooms/item/ColaemptyItem.java"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Gaoerfuqiubang",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gaoerfuqiubang",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/GaoerfuqiubangItem.java",
+          "src/main/resources/assets/backrooms/models/item/gaoerfuqiubang.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Jinggun",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jinggun",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/JinggunItem.java",
+          "src/main/resources/assets/backrooms/models/item/jinggun.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Zhengguanempty",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "zhengguanempty",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/ZhengguanemptyItem.java",
+          "src/main/resources/assets/backrooms/models/item/zhengguanempty.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "SsxsDangShiWuBeiChiShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ssxs_dang_shi_wu_bei_chi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/SsxsDangShiWuBeiChiShiProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Ttieli1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ttieli_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/recipes/ttieli_1.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Tieli2",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tieli_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/recipes/tieli_2.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Tieli3",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tieli_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/recipes/tieli_3.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Liandao",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "liandao",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/liandao.json",
+          "src/main/java/net/mcreator/backrooms/item/LiandaoItem.java"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Fruitsguantouempty",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fruitsguantouempty",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/fruitsguantouempty.json",
+          "src/main/java/net/mcreator/backrooms/item/FruitsguantouemptyItem.java"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Lsspempty",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lsspempty",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/lsspempty.json",
+          "src/main/java/net/mcreator/backrooms/item/LsspemptyItem.java"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Caidao",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "caidao",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/caidao.json",
+          "src/main/java/net/mcreator/backrooms/item/CaidaoItem.java"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "YiliaobaoDangShiWuBeiChiShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yiliaobao_dang_shi_wu_bei_chi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/YiliaobaoDangShiWuBeiChiShiProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Fruitsdao",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fruitsdao",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/fruitsdao.json",
+          "src/main/java/net/mcreator/backrooms/item/FruitsdaoItem.java"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Samuraisword",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "samuraisword",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/SamuraiswordItem.java",
+          "src/main/resources/assets/backrooms/models/item/samuraisword.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Chuizi",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chuizi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/ChuiziItem.java",
+          "src/main/resources/assets/backrooms/models/item/chuizi.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Bishou",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bishou",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/bishou.json",
+          "src/main/java/net/mcreator/backrooms/item/BishouItem.java"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Object1xrsDangShiWuBeiChiShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "object_1xrs_dang_shi_wu_bei_chi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/Object1xrsDangShiWuBeiChiShiProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Entity3smiler",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_3smiler",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/client/renderer/Entity3smilerRenderer.java",
+          "src/main/resources/assets/backrooms/models/item/entity_3smiler_spawn_egg.json",
+          "src/main/resources/data/backrooms/forge/biome_modifier/entity_3smiler_biome_modifier.json",
+          "src/main/java/net/mcreator/backrooms/entity/Entity3smilerEntity.java"
+        ]
+      },
+      "path": "~/Entities"
+    },
+    {
+      "name": "Entities",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entities",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/Entities"
+    },
+    {
+      "name": "Pobu",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pobu",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/pobu.json",
+          "src/main/java/net/mcreator/backrooms/item/PobuItem.java"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Pobu1",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pobu_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/recipes/pobu_1.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "BengdaiDangShiWuBeiChiShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bengdai_dang_shi_wu_bei_chi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/BengdaiDangShiWuBeiChiShiProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "MEGfangdanboli",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "me_gfangdanboli",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/block/MEGfangdanboliBlock.java",
+          "src/main/resources/assets/backrooms/blockstates/me_gfangdanboli.json",
+          "src/main/resources/assets/backrooms/models/block/me_gfangdanboli.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/me_gfangdanboli.json",
+          "src/main/resources/assets/backrooms/models/item/me_gfangdanboli.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Level1qiangbi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1qiangbi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/level_1qiangbi.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_1qiangbi.json",
+          "src/main/java/net/mcreator/backrooms/block/Level1qiangbiBlock.java",
+          "src/main/resources/assets/backrooms/blockstates/level_1qiangbi.json",
+          "src/main/resources/assets/backrooms/models/item/level_1qiangbi.json"
+        ]
+      },
+      "path": "~/level1"
+    },
+    {
+      "name": "Level1qiangbikailie",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1qiangbikailie",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/blockstates/level_1qiangbikailie.json",
+          "src/main/resources/assets/backrooms/models/item/level_1qiangbikailie.json",
+          "src/main/java/net/mcreator/backrooms/block/Level1qiangbikailieBlock.java",
+          "src/main/resources/assets/backrooms/models/block/level_1qiangbikailie.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_1qiangbikailie.json"
+        ]
+      },
+      "path": "~/level1"
+    },
+    {
+      "name": "Level1qiangbitiezhitop",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1qiangbitiezhitop",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/block/Level1qiangbitiezhitopBlock.java",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_1qiangbitiezhitop.json",
+          "src/main/resources/assets/backrooms/models/item/level_1qiangbitiezhitop.json",
+          "src/main/resources/assets/backrooms/models/block/level_1qiangbitiezhitop.json",
+          "src/main/resources/assets/backrooms/blockstates/level_1qiangbitiezhitop.json"
+        ]
+      },
+      "path": "~/level1"
+    },
+    {
+      "name": "Level1qiangbitiezhi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1qiangbitiezhi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/level_1qiangbitiezhi.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_1qiangbitiezhi.json",
+          "src/main/resources/assets/backrooms/blockstates/level_1qiangbitiezhi.json",
+          "src/main/resources/assets/backrooms/models/item/level_1qiangbitiezhi.json",
+          "src/main/java/net/mcreator/backrooms/block/Level1qiangbitiezhiBlock.java"
+        ]
+      },
+      "path": "~/level1"
+    },
+    {
+      "name": "Level1qiangbiwhite",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1qiangbiwhite",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/blockstates/level_1qiangbiwhite.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_1qiangbiwhite.json",
+          "src/main/resources/assets/backrooms/models/item/level_1qiangbiwhite.json",
+          "src/main/java/net/mcreator/backrooms/block/Level1qiangbiwhiteBlock.java",
+          "src/main/resources/assets/backrooms/models/block/level_1qiangbiwhite.json"
+        ]
+      },
+      "path": "~/level1"
+    },
+    {
+      "name": "Level1qiangbiwhitebroken",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1qiangbiwhitebroken",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/blockstates/level_1qiangbiwhitebroken.json",
+          "src/main/resources/assets/backrooms/models/block/level_1qiangbiwhitebroken.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_1qiangbiwhitebroken.json",
+          "src/main/java/net/mcreator/backrooms/block/Level1qiangbiwhitebrokenBlock.java",
+          "src/main/resources/assets/backrooms/models/item/level_1qiangbiwhitebroken.json"
+        ]
+      },
+      "path": "~/level1"
+    },
+    {
+      "name": "Jlevel1qiangbi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jlevel_1qiangbi",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/block/Jlevel1qiangbiBlock.java",
+          "src/main/resources/assets/backrooms/models/block/jlevel_1qiangbi.json",
+          "src/main/resources/assets/backrooms/blockstates/jlevel_1qiangbi.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/jlevel_1qiangbi.json",
+          "src/main/resources/assets/backrooms/models/item/jlevel_1qiangbi.json"
+        ]
+      },
+      "path": "~/level1/jia_blocks"
+    },
+    {
+      "name": "Entity15beishi",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_15beishi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/entity_15beishi_spawn_egg.json",
+          "src/main/java/net/mcreator/backrooms/client/renderer/Entity15beishiRenderer.java",
+          "src/main/java/net/mcreator/backrooms/entity/Entity15beishiEntity.java"
+        ]
+      },
+      "path": "~/Entities"
+    },
+    {
+      "name": "Entity8liequan",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_8liequan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/entity/Entity8liequanEntity.java",
+          "src/main/resources/assets/backrooms/models/item/entity_8liequan_spawn_egg.json",
+          "src/main/java/net/mcreator/backrooms/client/renderer/Entity8liequanRenderer.java",
+          "src/main/resources/data/backrooms/forge/biome_modifier/entity_8liequan_biome_modifier.json"
+        ]
+      },
+      "path": "~/Entities"
+    },
+    {
+      "name": "Level1qiangbiwithf",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1qiangbiwithf",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/level_1qiangbiwithf.json",
+          "src/main/resources/assets/backrooms/blockstates/level_1qiangbiwithf.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_1qiangbiwithf.json",
+          "src/main/resources/assets/backrooms/models/block/level_1qiangbiwithf.json",
+          "src/main/java/net/mcreator/backrooms/block/Level1qiangbiwithfBlock.java"
+        ]
+      },
+      "path": "~/level1"
+    },
+    {
+      "name": "Jlevel1qiangbiwhite",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jlevel_1qiangbiwhite",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/loot_tables/blocks/jlevel_1qiangbiwhite.json",
+          "src/main/resources/assets/backrooms/blockstates/jlevel_1qiangbiwhite.json",
+          "src/main/resources/assets/backrooms/models/block/jlevel_1qiangbiwhite.json",
+          "src/main/resources/assets/backrooms/models/item/jlevel_1qiangbiwhite.json",
+          "src/main/java/net/mcreator/backrooms/block/Jlevel1qiangbiwhiteBlock.java"
+        ]
+      },
+      "path": "~/level1/jia_blocks"
+    },
+    {
+      "name": "Entity10qiepizhe",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_10qiepizhe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/forge/biome_modifier/entity_10qiepizhe_biome_modifier.json",
+          "src/main/java/net/mcreator/backrooms/entity/Entity10qiepizheEntity.java",
+          "src/main/java/net/mcreator/backrooms/client/renderer/Entity10qiepizheRenderer.java",
+          "src/main/resources/assets/backrooms/models/item/entity_10qiepizhe_spawn_egg.json"
+        ]
+      },
+      "path": "~/Entities"
+    },
+    {
+      "name": "Entity9wumianlin",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_9wumianlin",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/forge/biome_modifier/entity_9wumianlin_biome_modifier.json",
+          "src/main/java/net/mcreator/backrooms/entity/Entity9wumianlinEntity.java",
+          "src/main/java/net/mcreator/backrooms/client/renderer/Entity9wumianlinRenderer.java",
+          "src/main/resources/assets/backrooms/models/item/entity_9wumianlin_spawn_egg.json"
+        ]
+      },
+      "path": "~/Entities"
+    },
+    {
+      "name": "Entity15beishiDangZheGeShiTiShaSiLingGeShiTi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_15beishi_dang_zhe_ge_shi_ti_sha_si_ling_ge_shi_ti",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/Entity15beishiDangZheGeShiTiShaSiLingGeShiTiProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Xincunzhe",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "xincunzhe",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/entity/XincunzheEntity.java",
+          "src/main/java/net/mcreator/backrooms/client/renderer/XincunzheRenderer.java",
+          "src/main/resources/data/backrooms/forge/biome_modifier/xincunzhe_biome_modifier.json",
+          "src/main/resources/assets/backrooms/models/item/xincunzhe_spawn_egg.json"
+        ]
+      },
+      "path": "~/Entities"
+    },
+    {
+      "name": "Level1lights",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1lights",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/block/Level1lightsBlock.java",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_1lights.json",
+          "src/main/resources/assets/backrooms/blockstates/level_1lights.json",
+          "src/main/resources/assets/backrooms/models/block/level_1lights.json",
+          "src/main/resources/assets/backrooms/models/item/level_1lights.json"
+        ]
+      },
+      "path": "~/level1"
+    },
+    {
+      "name": "Entity15beishixunhuanYaoShuiXiaoGuoChiXuShiMeiKeFaSheng",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_15beishixunhuan_yao_shui_xiao_guo_chi_xu_shi_mei_ke_fa_sheng",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/Entity15beishixunhuanYaoShuiXiaoGuoChiXuShiMeiKeFaShengProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Entity15beishixunhuanYaoShuiDaoQiShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "entity_15beishixunhuan_yao_shui_dao_qi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/Entity15beishixunhuanYaoShuiDaoQiShiProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Level1shuiguanhui",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1shuiguanhui",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_1shuiguanhui.json",
+          "src/main/resources/assets/backrooms/models/block/level_1shuiguanhui.json",
+          "src/main/resources/assets/backrooms/models/item/level_1shuiguanhui.json",
+          "src/main/java/net/mcreator/backrooms/block/Level1shuiguanhuiBlock.java",
+          "src/main/resources/assets/backrooms/blockstates/level_1shuiguanhui.json"
+        ]
+      },
+      "path": "~/level1"
+    },
+    {
+      "name": "Level1shuiguanThui",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1shuiguan_thui",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/block/Level1shuiguanThuiBlock.java",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_1shuiguan_thui.json",
+          "src/main/resources/assets/backrooms/models/item/level_1shuiguan_thui.json",
+          "src/main/resources/assets/backrooms/blockstates/level_1shuiguan_thui.json",
+          "src/main/resources/assets/backrooms/models/block/level_1shuiguan_thui.json"
+        ]
+      },
+      "path": "~/level1"
+    },
+    {
+      "name": "Level1shuiguanshizi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1shuiguanshizi",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_1shuiguanshizi.json",
+          "src/main/resources/assets/backrooms/blockstates/level_1shuiguanshizi.json",
+          "src/main/java/net/mcreator/backrooms/block/Level1shuiguanshiziBlock.java",
+          "src/main/resources/assets/backrooms/models/item/level_1shuiguanshizi.json",
+          "src/main/resources/assets/backrooms/models/block/level_1shuiguanshizi.json"
+        ]
+      },
+      "path": "~/level1"
+    },
+    {
+      "name": "Level1shuiguanzwhui",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1shuiguanzwhui",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/blockstates/level_1shuiguanzwhui.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_1shuiguanzwhui.json",
+          "src/main/java/net/mcreator/backrooms/block/Level1shuiguanzwhuiBlock.java",
+          "src/main/resources/assets/backrooms/models/block/level_1shuiguanzwhui.json",
+          "src/main/resources/assets/backrooms/models/item/level_1shuiguanzwhui.json"
+        ]
+      },
+      "path": "~/level1"
+    },
+    {
+      "name": "SuperxrsDangShiWuBeiChiShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superxrs_dang_shi_wu_bei_chi_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/SuperxrsDangShiWuBeiChiShiProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "SuperxrsDangHuoZhaoDeShiTiBeiGaiWuPinJiZhong",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superxrs_dang_huo_zhao_de_shi_ti_bei_gai_wu_pin_ji_zhong",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/SuperxrsDangHuoZhaoDeShiTiBeiGaiWuPinJiZhongProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Level7",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_7",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension_type/level_7.json",
+          "src/main/resources/data/backrooms/dimension/level_7.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level7Dimension.java"
+        ]
+      },
+      "path": "~/level7"
+    },
+    {
+      "name": "Level10",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/biome/level_10.json"
+        ]
+      },
+      "path": "~/level10"
+    },
+    {
+      "name": "Level10wd",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_10",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension_type/level_10.json",
+          "src/main/resources/data/backrooms/dimension/level_10.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level10wdDimension.java"
+        ]
+      },
+      "path": "~/level10"
+    },
+    {
+      "name": "Level14leavesDangShiTiZaiFangKuaiShangXingZouShi",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_14leaves_dang_shi_ti_zai_fang_kuai_shang_xing_zou_shi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/Level14leavesDangShiTiZaiFangKuaiShangXingZouShiProcedure.java"
+        ]
+      }
+    },
+    {
+      "name": "Level0",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0",
+      "metadata": {
+        "ep": true,
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/level_0_portal_ew.json",
+          "src/main/java/net/mcreator/backrooms/block/Level0PortalBlock.java",
+          "src/main/resources/assets/backrooms/blockstates/level_0_portal.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level0Dimension.java",
+          "src/main/java/net/mcreator/backrooms/world/teleporter/Level0Teleporter.java",
+          "src/main/resources/assets/backrooms/models/item/level_0.json",
+          "src/main/java/net/mcreator/backrooms/item/Level0Item.java",
+          "src/main/resources/assets/backrooms/models/block/level_0_portal_ns.json",
+          "src/main/java/net/mcreator/backrooms/world/teleporter/Level0PortalShape.java",
+          "src/main/resources/data/backrooms/dimension/level_0.json",
+          "src/main/resources/data/backrooms/dimension_type/level_0.json"
+        ]
+      },
+      "path": "~/level0"
+    },
+    {
+      "name": "Air",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "air",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/biome/air.json"
+        ]
+      },
+      "path": "~/level0"
+    },
+    {
+      "name": "Level1",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension/level_1.json",
+          "src/main/resources/data/backrooms/dimension_type/level_1.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level1Dimension.java"
+        ]
+      },
+      "path": "~/level1"
+    },
+    {
+      "name": "Tolevel1",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tolevel_1",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/Tolevel1Procedure.java"
+        ]
+      },
+      "path": "~/level0/jia_blocks"
+    },
+    {
+      "name": "Level0o2",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0o_2",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension_type/level_0o_2.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level0o2Dimension.java",
+          "src/main/resources/data/backrooms/dimension/level_0o_2.json"
+        ]
+      },
+      "path": "~/level0/level0.2"
+    },
+    {
+      "name": "Level2",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_2",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension_type/level_2.json",
+          "src/main/resources/data/backrooms/dimension/level_2.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level2Dimension.java"
+        ]
+      },
+      "path": "~/level2"
+    },
+    {
+      "name": "Tolevel2",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tolevel_2",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/Tolevel2Procedure.java"
+        ]
+      },
+      "path": "~/level1/jia_blocks"
+    },
+    {
+      "name": "Leveltanhao",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leveltanhao",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/java/net/mcreator/backrooms/world/dimension/LeveltanhaoDimension.java",
+          "src/main/resources/data/backrooms/dimension_type/leveltanhao.json",
+          "src/main/resources/data/backrooms/dimension/leveltanhao.json"
+        ]
+      },
+      "path": "~/leveltanhao"
+    },
+    {
+      "name": "Level188",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_188",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension/level_188.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level188Dimension.java",
+          "src/main/resources/data/backrooms/dimension_type/level_188.json"
+        ]
+      },
+      "path": "~/level188"
+    },
+    {
+      "name": "Level0swqx",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0swqx",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/biome/level_0swqx.json"
+        ]
+      },
+      "path": "~/level0"
+    },
+    {
+      "name": "Leveltanhaoswqx",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leveltanhaoswqx",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/biome/leveltanhaoswqx.json"
+        ]
+      },
+      "path": "~/level0"
+    },
+    {
+      "name": "Tolevel7",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tolevel_7",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/Tolevel7Procedure.java"
+        ]
+      },
+      "path": "~/spblock"
+    },
+    {
+      "name": "Tolevel10",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tolevel_10",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/Tolevel10Procedure.java"
+        ]
+      },
+      "path": "~/spblock"
+    },
+    {
+      "name": "Spblock1",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spblock_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/blockstates/spblock_1.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/spblock_1.json",
+          "src/main/java/net/mcreator/backrooms/block/Spblock1Block.java",
+          "src/main/resources/assets/backrooms/models/item/spblock_1.json",
+          "src/main/resources/assets/backrooms/models/block/spblock_1.json"
+        ]
+      },
+      "path": "~/spblock"
+    },
+    {
+      "name": "Spblock2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spblock_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/loot_tables/blocks/spblock_2.json",
+          "src/main/resources/assets/backrooms/models/block/spblock_2.json",
+          "src/main/java/net/mcreator/backrooms/block/Spblock2Block.java",
+          "src/main/resources/assets/backrooms/models/item/spblock_2.json",
+          "src/main/resources/assets/backrooms/blockstates/spblock_2.json"
+        ]
+      },
+      "path": "~/spblock"
+    },
+    {
+      "name": "Level998qiangbi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_998qiangbi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/level_998qiangbi.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_998qiangbi.json",
+          "src/main/resources/assets/backrooms/blockstates/level_998qiangbi.json",
+          "src/main/resources/assets/backrooms/models/block/level_998qiangbi.json",
+          "src/main/java/net/mcreator/backrooms/block/Level998qiangbiBlock.java"
+        ]
+      },
+      "path": "~/level998"
+    },
+    {
+      "name": "Level998qiangbitiedi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_998qiangbitiedi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/level_998qiangbitiedi.json",
+          "src/main/resources/assets/backrooms/blockstates/level_998qiangbitiedi.json",
+          "src/main/resources/assets/backrooms/models/item/level_998qiangbitiedi.json",
+          "src/main/java/net/mcreator/backrooms/block/Level998qiangbitiediBlock.java",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_998qiangbitiedi.json"
+        ]
+      },
+      "path": "~/level998"
+    },
+    {
+      "name": "Level998shydiaban",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_998shydiaban",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/level_998shydiaban.json",
+          "src/main/resources/assets/backrooms/blockstates/level_998shydiaban.json",
+          "src/main/java/net/mcreator/backrooms/block/Level998shydiabanBlock.java",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_998shydiaban.json",
+          "src/main/resources/assets/backrooms/models/item/level_998shydiaban.json"
+        ]
+      },
+      "path": "~/level998"
+    },
+    {
+      "name": "Level998shydiban2",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_998shydiban_2",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/blockstates/level_998shydiban_2.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_998shydiban_2.json",
+          "src/main/resources/assets/backrooms/models/block/level_998shydiban_2.json",
+          "src/main/resources/assets/backrooms/models/item/level_998shydiban_2.json",
+          "src/main/java/net/mcreator/backrooms/block/Level998shydiban2Block.java"
+        ]
+      },
+      "path": "~/level998"
+    },
+    {
+      "name": "Level998skydiban3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_998skydiban_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/level_998skydiban_3.json",
+          "src/main/java/net/mcreator/backrooms/block/Level998skydiban3Block.java",
+          "src/main/resources/assets/backrooms/blockstates/level_998skydiban_3.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_998skydiban_3.json",
+          "src/main/resources/assets/backrooms/models/item/level_998skydiban_3.json"
+        ]
+      },
+      "path": "~/level998"
+    },
+    {
+      "name": "Level998swqx",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_998swqx",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/biome/level_998swqx.json"
+        ]
+      },
+      "path": "~/level998"
+    },
+    {
+      "name": "Level998",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_998",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension_type/level_998.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level998Dimension.java",
+          "src/main/resources/data/backrooms/dimension/level_998.json"
+        ]
+      },
+      "path": "~/level998"
+    },
+    {
+      "name": "Ourhome",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ourhome",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/biome/ourhome.json",
+          "src/main/resources/data/backrooms/worldgen/configured_feature/ourhome_tree.json",
+          "src/main/resources/data/backrooms/worldgen/placed_feature/ourhome_tree.json"
+        ]
+      },
+      "path": "~/alltheendyouaresolucky"
+    },
+    {
+      "name": "Qianting",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "qianting",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension_type/qianting.json",
+          "src/main/resources/data/backrooms/dimension/qianting.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/QiantingDimension.java"
+        ]
+      },
+      "path": "~/alltheendyouaresolucky"
+    },
+    {
+      "name": "Tolevel999",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tolevel_999",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/Tolevel999Procedure.java"
+        ]
+      },
+      "path": "~/level998"
+    },
+    {
+      "name": "Level998tolevel999",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_998tolevel_999",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/level_998tolevel_999.json",
+          "src/main/resources/assets/backrooms/models/block/level_998tolevel_999.json",
+          "src/main/java/net/mcreator/backrooms/block/Level998tolevel999Block.java",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_998tolevel_999.json",
+          "src/main/resources/assets/backrooms/blockstates/level_998tolevel_999.json"
+        ]
+      },
+      "path": "~/level998"
+    },
+    {
+      "name": "Levelfun",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "levelfun",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension_type/levelfun.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/LevelfunDimension.java",
+          "src/main/resources/data/backrooms/dimension/levelfun.json"
+        ]
+      },
+      "path": "~/levelfun"
+    },
+    {
+      "name": "Level14leaves",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_14leaves",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/level_14leaves.json",
+          "src/main/java/net/mcreator/backrooms/block/Level14leavesBlock.java",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_14leaves.json",
+          "src/main/resources/assets/backrooms/blockstates/level_14leaves.json",
+          "src/main/resources/assets/backrooms/models/item/level_14leaves.json"
+        ]
+      },
+      "path": "~/level14/level14trees"
+    },
+    {
+      "name": "Level14treegan",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_14treegan",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_14treegan.json",
+          "src/main/resources/assets/backrooms/blockstates/level_14treegan.json",
+          "src/main/resources/assets/backrooms/models/block/level_14treegan.json",
+          "src/main/resources/assets/backrooms/models/item/level_14treegan.json",
+          "src/main/java/net/mcreator/backrooms/block/Level14treeganBlock.java"
+        ]
+      },
+      "path": "~/level14/level14trees"
+    },
+    {
+      "name": "Spblock3",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spblock_3",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/blockstates/spblock_3.json",
+          "src/main/resources/assets/backrooms/models/item/spblock_3.json",
+          "src/main/java/net/mcreator/backrooms/block/Spblock3Block.java",
+          "src/main/resources/data/backrooms/loot_tables/blocks/spblock_3.json",
+          "src/main/resources/assets/backrooms/models/block/spblock_3.json"
+        ]
+      },
+      "path": "~/spblock"
+    },
+    {
+      "name": "Tolevel998",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tolevel_998",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/Tolevel998Procedure.java"
+        ]
+      },
+      "path": "~/spblock"
+    },
+    {
+      "name": "Spblocks",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "spblocks",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/spblock"
+    },
+    {
+      "name": "Leveltheend",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leveltheend",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension_type/leveltheend.json",
+          "src/main/resources/data/backrooms/dimension/leveltheend.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/LeveltheendDimension.java"
+        ]
+      },
+      "path": "~/leveltheend"
+    },
+    {
+      "name": "Level6",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_6",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension_type/level_6.json",
+          "src/main/resources/data/backrooms/dimension/level_6.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level6Dimension.java"
+        ]
+      },
+      "path": "~/level6"
+    },
+    {
+      "name": "Level6qiangbi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_6qiangbi",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_6qiangbi.json",
+          "src/main/java/net/mcreator/backrooms/block/Level6qiangbiBlock.java",
+          "src/main/resources/assets/backrooms/models/block/level_6qiangbi.json",
+          "src/main/resources/assets/backrooms/models/item/level_6qiangbi.json",
+          "src/main/resources/assets/backrooms/blockstates/level_6qiangbi.json"
+        ]
+      },
+      "path": "~/level6"
+    },
+    {
+      "name": "Level999",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_999",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension_type/level_999.json",
+          "src/main/resources/data/backrooms/dimension/level_999.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level999Dimension.java"
+        ]
+      },
+      "path": "~/level999"
+    },
+    {
+      "name": "Level2qiangbi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_2qiangbi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/level_2qiangbi.json",
+          "src/main/java/net/mcreator/backrooms/block/Level2qiangbiBlock.java",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_2qiangbi.json",
+          "src/main/resources/assets/backrooms/models/item/level_2qiangbi.json",
+          "src/main/resources/assets/backrooms/blockstates/level_2qiangbi.json"
+        ]
+      },
+      "path": "~/level2"
+    },
+    {
+      "name": "Level2diban",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_2diban",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/level_2diban.json",
+          "src/main/resources/assets/backrooms/blockstates/level_2diban.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_2diban.json",
+          "src/main/resources/assets/backrooms/models/block/level_2diban.json",
+          "src/main/java/net/mcreator/backrooms/block/Level2dibanBlock.java"
+        ]
+      },
+      "path": "~/level2"
+    },
+    {
+      "name": "Level2shuiguan",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_2shuiguan",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/blockstates/level_2shuiguan.json",
+          "src/main/java/net/mcreator/backrooms/block/Level2shuiguanBlock.java",
+          "src/main/resources/assets/backrooms/models/item/level_2shuiguan.json",
+          "src/main/resources/assets/backrooms/models/block/level_2shuiguan.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_2shuiguan.json"
+        ]
+      },
+      "path": "~/level2"
+    },
+    {
+      "name": "Level2shuiguanzhuanwan",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_2shuiguanzhuanwan",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/level_2shuiguanzhuanwan.json",
+          "src/main/java/net/mcreator/backrooms/block/Level2shuiguanzhuanwanBlock.java",
+          "src/main/resources/assets/backrooms/blockstates/level_2shuiguanzhuanwan.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_2shuiguanzhuanwan.json",
+          "src/main/resources/assets/backrooms/models/item/level_2shuiguanzhuanwan.json"
+        ]
+      },
+      "path": "~/level2"
+    },
+    {
+      "name": "Level2shuiguanshizi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_2shuiguanshizi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/level_2shuiguanshizi.json",
+          "src/main/resources/assets/backrooms/models/item/level_2shuiguanshizi.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_2shuiguanshizi.json",
+          "src/main/resources/assets/backrooms/blockstates/level_2shuiguanshizi.json",
+          "src/main/java/net/mcreator/backrooms/block/Level2shuiguanshiziBlock.java"
+        ]
+      },
+      "path": "~/level2"
+    },
+    {
+      "name": "Level2shuiguant",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_2shuiguant",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/level_2shuiguant.json",
+          "src/main/resources/assets/backrooms/blockstates/level_2shuiguant.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_2shuiguant.json",
+          "src/main/java/net/mcreator/backrooms/block/Level2shuiguantBlock.java",
+          "src/main/resources/assets/backrooms/models/block/level_2shuiguant.json"
+        ]
+      },
+      "path": "~/level2"
+    },
+    {
+      "name": "Sunlights",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sunlights",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/loot_tables/blocks/sunlights.json",
+          "src/main/resources/assets/backrooms/models/block/sunlights.json",
+          "src/main/resources/assets/backrooms/models/item/sunlights.json",
+          "src/main/java/net/mcreator/backrooms/block/SunlightsBlock.java",
+          "src/main/resources/assets/backrooms/blockstates/sunlights.json"
+        ]
+      },
+      "path": "~/level2"
+    },
+    {
+      "name": "Object16hjkl",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "object_16hjkl",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/object_16hjkl.json",
+          "src/main/java/net/mcreator/backrooms/item/Object16hjklItem.java"
+        ]
+      },
+      "path": "~/tongyongwuping/Object 16hjkl"
+    },
+    {
+      "name": "Lvshuguantou",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lvshuguantou",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/lvshuguantou.json",
+          "src/main/java/net/mcreator/backrooms/item/LvshuguantouItem.java"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Rrouguantou",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rrouguantou",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/RrouguantouItem.java",
+          "src/main/resources/assets/backrooms/models/item/rrouguantou.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Cola",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cola",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/ColaItem.java",
+          "src/main/resources/assets/backrooms/models/item/cola.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Ssxs",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ssxs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/SsxsItem.java",
+          "src/main/resources/assets/backrooms/models/item/ssxs.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Yiliaobao",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yiliaobao",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/YiliaobaoItem.java",
+          "src/main/resources/assets/backrooms/models/item/yiliaobao.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Fruitsguantou",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fruitsguantou",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/fruitsguantou.json",
+          "src/main/java/net/mcreator/backrooms/item/FruitsguantouItem.java"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Lssp",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lssp",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/LsspItem.java",
+          "src/main/resources/assets/backrooms/models/item/lssp.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Object1xrs",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "object_1xrs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/object_1xrs.json",
+          "src/main/java/net/mcreator/backrooms/item/Object1xrsItem.java"
+        ]
+      },
+      "path": "~/tongyongwuping/Object 1xrs"
+    },
+    {
+      "name": "Bengdai",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bengdai",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/BengdaiItem.java",
+          "src/main/resources/assets/backrooms/models/item/bengdai.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Superxrs",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "superxrs",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/SuperxrsItem.java",
+          "src/main/resources/assets/backrooms/models/item/superxrs.json"
+        ]
+      },
+      "path": "~/tongyongwuping/Object 1xrs"
+    },
+    {
+      "name": "Level4",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_4",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level4Dimension.java",
+          "src/main/resources/data/backrooms/dimension_type/level_4.json",
+          "src/main/resources/data/backrooms/dimension/level_4.json"
+        ]
+      },
+      "path": "~/level4"
+    },
+    {
+      "name": "Level5",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_5",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension_type/level_5.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level5Dimension.java",
+          "src/main/resources/data/backrooms/dimension/level_5.json"
+        ]
+      },
+      "path": "~/level5"
+    },
+    {
+      "name": "Level8stone",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_8stone",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/configured_feature/level_8stone_tree.json",
+          "src/main/resources/data/backrooms/worldgen/placed_feature/level_8stone_tree.json",
+          "src/main/resources/data/backrooms/worldgen/biome/level_8stone.json"
+        ]
+      },
+      "path": "~/level8"
+    },
+    {
+      "name": "Level8",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_8",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level8Dimension.java",
+          "src/main/resources/data/backrooms/dimension_type/level_8.json",
+          "src/main/resources/data/backrooms/dimension/level_8.json"
+        ]
+      },
+      "path": "~/level8"
+    },
+    {
+      "name": "Level3",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_3",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level3Dimension.java",
+          "src/main/resources/data/backrooms/dimension_type/level_3.json",
+          "src/main/resources/data/backrooms/dimension/level_3.json"
+        ]
+      },
+      "path": "~/level3"
+    },
+    {
+      "name": "Level9heiye",
+      "type": "biome",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_9heiye",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/biome/level_9heiye.json"
+        ]
+      },
+      "path": "~/level9"
+    },
+    {
+      "name": "Level9",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_9",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension_type/level_9.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level9Dimension.java",
+          "src/main/resources/data/backrooms/dimension/level_9.json"
+        ]
+      },
+      "path": "~/level9"
+    },
+    {
+      "name": "Miehuoqi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "miehuoqi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/miehuoqi.json",
+          "src/main/java/net/mcreator/backrooms/block/MiehuoqiBlock.java",
+          "src/main/resources/data/backrooms/loot_tables/blocks/miehuoqi.json",
+          "src/main/resources/assets/backrooms/models/item/miehuoqi.json",
+          "src/main/resources/assets/backrooms/blockstates/miehuoqi.json"
+        ]
+      },
+      "path": "~/level4"
+    },
+    {
+      "name": "Level4qiangbi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_4qiangbi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/block/level_4qiangbi.json",
+          "src/main/java/net/mcreator/backrooms/block/Level4qiangbiBlock.java",
+          "src/main/resources/assets/backrooms/models/item/level_4qiangbi.json",
+          "src/main/resources/assets/backrooms/blockstates/level_4qiangbi.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_4qiangbi.json"
+        ]
+      },
+      "path": "~/level4"
+    },
+    {
+      "name": "Level4tianhuaban",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_4tianhuaban",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/blockstates/level_4tianhuaban.json",
+          "src/main/resources/assets/backrooms/models/item/level_4tianhuaban.json",
+          "src/main/java/net/mcreator/backrooms/block/Level4tianhuabanBlock.java",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_4tianhuaban.json",
+          "src/main/resources/assets/backrooms/models/block/level_4tianhuaban.json"
+        ]
+      },
+      "path": "~/level4"
+    },
+    {
+      "name": "Level4tianhuabanwithoutled",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_4tianhuabanwithoutled",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/level_4tianhuabanwithoutled.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_4tianhuabanwithoutled.json",
+          "src/main/java/net/mcreator/backrooms/block/Level4tianhuabanwithoutledBlock.java",
+          "src/main/resources/assets/backrooms/blockstates/level_4tianhuabanwithoutled.json",
+          "src/main/resources/assets/backrooms/models/block/level_4tianhuabanwithoutled.json"
+        ]
+      },
+      "path": "~/level4"
+    },
+    {
+      "name": "Bangongyi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bangongyi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/bangongyi.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/bangongyi.json",
+          "src/main/java/net/mcreator/backrooms/block/BangongyiBlock.java",
+          "src/main/resources/assets/backrooms/blockstates/bangongyi.json",
+          "src/main/resources/assets/backrooms/models/block/bangongyi.json"
+        ]
+      },
+      "path": "~/level4"
+    },
+    {
+      "name": "EXIT",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "exit",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/blockstates/exit.json",
+          "src/main/java/net/mcreator/backrooms/block/EXITBlock.java",
+          "src/main/resources/assets/backrooms/models/item/exit.json",
+          "src/main/resources/assets/backrooms/models/block/exit.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/exit.json"
+        ]
+      },
+      "path": "~/leveltanhao"
+    },
+    {
+      "name": "FiveCents",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "five_cents",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/FiveCentsItem.java",
+          "src/main/resources/assets/backrooms/models/item/five_cents.json"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Fivecentstoonedollar",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fivecentstoonedollar",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Level1firstpicture",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_1firstpicture",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/zaxiang"
+    },
+    {
+      "name": "Level3qiangbizhitiedi",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_3qiangbizhitiedi",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/level_3qiangbizhitiedi.json",
+          "src/main/java/net/mcreator/backrooms/block/Level3qiangbizhitiediBlock.java",
+          "src/main/resources/assets/backrooms/models/block/level_3qiangbizhitiedi.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_3qiangbizhitiedi.json",
+          "src/main/resources/assets/backrooms/blockstates/level_3qiangbizhitiedi.json"
+        ]
+      },
+      "path": "~/level3"
+    },
+    {
+      "name": "Level3diban",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_3diban",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/block/Level3dibanBlock.java",
+          "src/main/resources/assets/backrooms/models/block/level_3diban.json",
+          "src/main/resources/assets/backrooms/models/item/level_3diban.json",
+          "src/main/resources/assets/backrooms/blockstates/level_3diban.json",
+          "src/main/resources/data/backrooms/loot_tables/blocks/level_3diban.json"
+        ]
+      },
+      "path": "~/level3"
+    },
+    {
+      "name": "Level12",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_12",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension_type/level_12.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level12Dimension.java",
+          "src/main/resources/data/backrooms/dimension/level_12.json"
+        ]
+      },
+      "path": "~/level12"
+    },
+    {
+      "name": "Object2cjmylv4",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "object_2cjmylv_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/Object2cjmylv4Item.java",
+          "src/main/resources/assets/backrooms/models/item/object_2cjmylv_4.json"
+        ]
+      },
+      "path": "~/tongyongwuping/Object 2LevelKey"
+    },
+    {
+      "name": "Object2cjmylv6",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "object_2cjmylv_6",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/Object2cjmylv6Item.java",
+          "src/main/resources/assets/backrooms/models/item/object_2cjmylv_6.json"
+        ]
+      },
+      "path": "~/tongyongwuping/Object 2LevelKey"
+    },
+    {
+      "name": "PlayerObj12was114514ed",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "player_obj_12was_114514ed",
+      "metadata": {
+        "dependencies": [],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/PlayerObj12was114514edProcedure.java"
+        ]
+      },
+      "path": "~/tongyongwuping/Object 1xrs"
+    },
+    {
+      "name": "Level94",
+      "type": "dimension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_94",
+      "metadata": {
+        "ep": false,
+        "files": [
+          "src/main/resources/data/backrooms/dimension/level_94.json",
+          "src/main/java/net/mcreator/backrooms/world/dimension/Level94Dimension.java",
+          "src/main/resources/data/backrooms/dimension_type/level_94.json"
+        ]
+      },
+      "path": "~/level94 is this a animation"
+    },
+    {
+      "name": "AbottleofCOPlayerFinishesUsingItem",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "abottleof_co_player_finishes_using_item",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/mcreator/backrooms/procedures/AbottleofCOPlayerFinishesUsingItemProcedure.java"
+        ]
+      },
+      "path": "~/commonthing"
+    },
+    {
+      "name": "Level10farmaFeature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_10farma_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/placed_feature/level_10farma_feature.json",
+          "src/main/resources/data/backrooms/forge/biome_modifier/level_10farma_feature_biome_modifier.json",
+          "src/main/resources/data/backrooms/worldgen/configured_feature/level_10farma_feature.json"
+        ],
+        "has_nbt_structure": true
+      },
+      "path": "~/level10"
+    },
+    {
+      "name": "MtxrsaFeature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mtxrsa_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/placed_feature/mtxrsa_feature.json",
+          "src/main/resources/data/backrooms/worldgen/configured_feature/mtxrsa_feature.json",
+          "src/main/resources/data/backrooms/forge/biome_modifier/mtxrsa_feature_biome_modifier.json"
+        ],
+        "has_nbt_structure": true
+      },
+      "path": "~/level10"
+    },
+    {
+      "name": "Level10waterFeature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_10water_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/forge/biome_modifier/level_10water_feature_biome_modifier.json",
+          "src/main/resources/data/backrooms/worldgen/placed_feature/level_10water_feature.json",
+          "src/main/resources/data/backrooms/worldgen/configured_feature/level_10water_feature.json"
+        ],
+        "has_nbt_structure": true
+      },
+      "path": "~/level10"
+    },
+    {
+      "name": "Level10xiaomaiFeature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_10xiaomai_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/placed_feature/level_10xiaomai_feature.json",
+          "src/main/resources/data/backrooms/worldgen/configured_feature/level_10xiaomai_feature.json",
+          "src/main/resources/data/backrooms/forge/biome_modifier/level_10xiaomai_feature_biome_modifier.json"
+        ],
+        "has_nbt_structure": true
+      },
+      "path": "~/level10"
+    },
+    {
+      "name": "Level10bigcaoFeature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_10bigcao_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/forge/biome_modifier/level_10bigcao_feature_biome_modifier.json",
+          "src/main/resources/data/backrooms/worldgen/configured_feature/level_10bigcao_feature.json",
+          "src/main/resources/data/backrooms/worldgen/placed_feature/level_10bigcao_feature.json"
+        ],
+        "has_nbt_structure": true
+      },
+      "path": "~/level10"
+    },
+    {
+      "name": "Level10bigjueFeature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_10bigjue_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/configured_feature/level_10bigjue_feature.json",
+          "src/main/resources/data/backrooms/forge/biome_modifier/level_10bigjue_feature_biome_modifier.json",
+          "src/main/resources/data/backrooms/worldgen/placed_feature/level_10bigjue_feature.json"
+        ],
+        "has_nbt_structure": true
+      },
+      "path": "~/level10"
+    },
+    {
+      "name": "Level10bigcao2Feature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_10bigcao_2_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/configured_feature/level_10bigcao_2_feature.json",
+          "src/main/resources/data/backrooms/forge/biome_modifier/level_10bigcao_2_feature_biome_modifier.json",
+          "src/main/resources/data/backrooms/worldgen/placed_feature/level_10bigcao_2_feature.json"
+        ],
+        "has_nbt_structure": true
+      },
+      "path": "~/level10"
+    },
+    {
+      "name": "Level10s1970shouseaFeature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_10s_1970shousea_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/forge/biome_modifier/level_10s_1970shousea_feature_biome_modifier.json",
+          "src/main/resources/data/backrooms/worldgen/configured_feature/level_10s_1970shousea_feature.json",
+          "src/main/resources/data/backrooms/worldgen/placed_feature/level_10s_1970shousea_feature.json"
+        ],
+        "has_nbt_structure": true
+      },
+      "path": "~/level10"
+    },
+    {
+      "name": "LeveltiejiangpuaFeature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "leveltiejiangpua_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/placed_feature/leveltiejiangpua_feature.json",
+          "src/main/resources/data/backrooms/forge/biome_modifier/leveltiejiangpua_feature_biome_modifier.json",
+          "src/main/resources/data/backrooms/worldgen/configured_feature/leveltiejiangpua_feature.json"
+        ],
+        "has_nbt_structure": true
+      },
+      "path": "~/level10"
+    },
+    {
+      "name": "Level10cangkuaFeature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_10cangkua_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/configured_feature/level_10cangkua_feature.json",
+          "src/main/resources/data/backrooms/worldgen/placed_feature/level_10cangkua_feature.json",
+          "src/main/resources/data/backrooms/forge/biome_modifier/level_10cangkua_feature_biome_modifier.json"
+        ],
+        "has_nbt_structure": true
+      },
+      "path": "~/level10"
+    },
+    {
+      "name": "RUN",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "run",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/RUNItem.java",
+          "src/main/resources/assets/backrooms/models/item/run.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "Levelo",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "levelo",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/levelo.json",
+          "src/main/java/net/mcreator/backrooms/item/LeveloItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "Backroom",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "backroom",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/backroom.json",
+          "src/main/java/net/mcreator/backrooms/item/BackroomItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "Cs",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cs",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/cs.json",
+          "src/main/java/net/mcreator/backrooms/item/CsItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "Rabbitda",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rabbitda",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/backrooms/item/RabbitdaItem.java",
+          "src/main/resources/assets/backrooms/models/item/rabbitda.json"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "Uschool",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uschool",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/uschool.json",
+          "src/main/java/net/mcreator/backrooms/item/UschoolItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "SixFortySeven",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "six_forty_seven",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/six_forty_seven.json",
+          "src/main/java/net/mcreator/backrooms/item/SixFortySevenItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "IKunGoldSong",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "i_kun_gold_song",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/i_kun_gold_song.json",
+          "src/main/java/net/mcreator/backrooms/item/IKunGoldSongItem.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "Dreamcore1",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dreamcore_1",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/backrooms/models/item/dreamcore_1.json",
+          "src/main/java/net/mcreator/backrooms/item/Dreamcore1Item.java"
+        ]
+      },
+      "path": "~/Music"
+    },
+    {
+      "name": "L10tiejiangkua2Feature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "l_10tiejiangkua_2_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/worldgen/configured_feature/l_10tiejiangkua_2_feature.json",
+          "src/main/resources/data/backrooms/worldgen/placed_feature/l_10tiejiangkua_2_feature.json",
+          "src/main/resources/data/backrooms/forge/biome_modifier/l_10tiejiangkua_2_feature_biome_modifier.json"
+        ],
+        "has_nbt_structure": true
+      },
+      "path": "~/level10"
+    },
+    {
+      "name": "Level10cangkuatacFeature",
+      "type": "feature",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_10cangkuatac_feature",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/backrooms/forge/biome_modifier/level_10cangkuatac_feature_biome_modifier.json",
+          "src/main/resources/data/backrooms/worldgen/configured_feature/level_10cangkuatac_feature.json",
+          "src/main/resources/data/backrooms/worldgen/placed_feature/level_10cangkuatac_feature.json"
+        ],
+        "has_nbt_structure": true
+      },
+      "path": "~/level10"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "o",
+      "files": [
+        "i_wasnt_aloud_to_watch_whose_line_as_a_kid_but_i_think_its_pretty_good_now"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "rabbitd",
+      "files": [
+        "bluearchivemusic--rabbit_dance"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "run",
+      "files": [
+        "level"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "cosk",
+      "files": [
+        "bluearchivemusic--connected_sky"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "us",
+      "files": [
+        "bluearchivemusic--unwelcome_school"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "backroomsmusic",
+      "files": [
+        "backroomsmusic"
+      ],
+      "category": "music",
+      "subtitle": ""
+    },
+    {
+      "name": "six_forty_seven",
+      "files": [
+        "six_forty_seven"
+      ],
+      "category": "neutral",
+      "subtitle": "Six Forty Seven - Instupendo"
+    },
+    {
+      "name": "ikungoldsong",
+      "files": [
+        "ikunjinqu_-_av388268184"
+      ],
+      "category": "record",
+      "subtitle": "BecauseYouBeatiful(IKun Remix) - 邹Lena Raine, Pigstep,、SWIN-S，Zhong Chengyunfei"
+    },
+    {
+      "name": "heykids",
+      "files": [
+        "010c_540e_0352_6f3e07f41ccddceb8dde48278d0ac491"
+      ],
+      "category": "neutral",
+      "subtitle": "Hey Kids - Monila"
+    }
+  ],
+  "tag_elements": {
+    "ITEMS:minecraft:pickaxes": [
+      "~CUSTOM:Chuizi"
+    ],
+    "BLOCKS:minecraft:overworld_carver_replaceables": [
+      "~Blocks.BEDROCK",
+      "~Blocks.CAVE_AIR",
+      "~Blocks.AIR",
+      "~Blocks.DIRT#0",
+      "~Blocks.GRASS",
+      "~Blocks.STONE#0"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~CUSTOM:Bishou",
+      "~CUSTOM:Chuizi",
+      "~CUSTOM:Samuraisword",
+      "~CUSTOM:Fruitsdao",
+      "~CUSTOM:Caidao",
+      "~CUSTOM:Liandao",
+      "~CUSTOM:Jinggun",
+      "~CUSTOM:Gaoerfuqiubang"
+    ],
+    "ITEMS:minecraft:axes": [
+      "~CUSTOM:Chuizi",
+      "~CUSTOM:Xxiaofangfu"
+    ],
+    "ITEMS:minecraft:music_discs": [
+      "~CUSTOM:Dreamcore1",
+      "~CUSTOM:IKunGoldSong",
+      "~CUSTOM:SixFortySeven",
+      "~CUSTOM:Uschool",
+      "~CUSTOM:Rabbitda",
+      "~CUSTOM:Cs",
+      "~CUSTOM:Backroom",
+      "~CUSTOM:Levelo",
+      "~CUSTOM:RUN"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.backrooms.level_998shydiaban": "Level998的地面(区域一)",
+      "block.backrooms.level_1lights": "Level1的灯",
+      "item.backrooms.backroom": "Backrooms.",
+      "itemGroup.tabentities": "实体",
+      "item.backrooms.bluearchivemusic_rabbitdance.desc": "BlueArchiveMusic—Rabbit Dance",
+      "entity.backrooms.entity_15beishi": "悲尸",
+      "subtitles.rabbitd": "",
+      "block.backrooms.level_998qiangbi": "Level 998的墙壁/地板/天花板",
+      "subtitles.backroomsmusic": "",
+      "item.backrooms.jinggun": "警棍",
+      "item.backrooms.rabbitda": "BlueArchiveMusic—Rabbit Dance",
+      "item.backrooms.yiliaobao": "医药包",
+      "item.backrooms.zhengguanempty": "空针管",
+      "item.backrooms.object_2cjmylv_4": "Object 2cjmylv 4",
+      "item.backrooms.rabbitda.desc": "BlueArchiveMusic—Rabbit Dance",
+      "block.backrooms.level_0diban": "Level0的黄色湿地毯",
+      "item.backrooms.bluearchivemusic_connectedsky.desc": "BlueArchiveMusic—Connected Sky",
+      "item.backrooms.object_2cjmylv_6": "Object 2cjmylv 6",
+      "block.backrooms.level_2shuiguan": "Level2的水管",
+      "item.backrooms.entity_3smiler_spawn_egg": "笑魇 Spawn Egg",
+      "block.backrooms.spblock_3": "Spblock to998",
+      "item.backrooms.bluearchivemusic_connectedsky": "BlueArchiveMusic—Connected Sky",
+      "block.backrooms.jlevel_0diban": "level0的地毯(切出)",
+      "subtitles.us": "",
+      "block.backrooms.spblock_1": "Spblock to7",
+      "block.backrooms.spblock_2": "Spblock to10",
+      "biome.backrooms.level_8stone": "Level 8stone",
+      "subtitles.backrooms": "",
+      "block.backrooms.level_6qiangbi": "Level6的墙壁/地板/天花板",
+      "painting.backrooms.level_1firstpicture.title": "Level 1firstpicture",
+      "block.backrooms.level_1qiangbiwhitebroken": "破损的白色的Level1的墙壁",
+      "item_group.backrooms.entities": "实体",
+      "item.backrooms.cola": "可乐",
+      "item.backrooms.liandao": "镰刀",
+      "subtitles.backroomssss": "",
+      "item.backrooms.cs.desc": "BlueArchiveMusic—Connected Sky",
+      "block.backrooms.level_4qiangbi": "Level4的墙壁/地板",
+      "item.backrooms.uschool": "BlueArchiveMusic—Unwelcome School",
+      "item.backrooms.samuraisword": "武士刀",
+      "block.backrooms.level_2qiangbi": "Level2的墙壁",
+      "item.backrooms.fruitsguantouempty": "空的水果罐头",
+      "item.backrooms.bishou": "匕首",
+      "item.backrooms.xxiaofangfu": "消防斧",
+      "item.backrooms.backroom.desc": "Backrooms.",
+      "block.backrooms.level_2shuiguanshizi": "Level2的水管(十字交叉)",
+      "biome.backrooms.level_0swqx": "Air",
+      "block.backrooms.level_2shuiguant": "Level2的水管(T字形)",
+      "painting.backrooms.level_0firstpicture.title": "Level 0firstpicture",
+      "block.backrooms.level_998qiangbitiedi": "Level998的墙壁(靠近地板处)",
+      "item.backrooms.levelo.desc": "I wasnt aloud to watch whose line as a kid but i think its pretty good now",
+      "item.backrooms.i_kun_gold_song": "Because You It\u0027s So Beautiul",
+      "block.backrooms.level_998shydiban_2": "Level998的地面 (区域二)",
+      "block.backrooms.level_1qiangbiwhite": "白色的Level1的墙壁",
+      "item.backrooms.fruitsguantou": "水果罐头",
+      "item.backrooms.levelo": "I wasnt aloud to watch whose line as a kid but i think its pretty good now",
+      "block.backrooms.jlevel_0qiangzhitiedi": "Ievel0的墙纸(靠近地毯处)(切出)",
+      "biome.backrooms.air": "Air",
+      "block.backrooms.level_998tolevel_999": "��Level998ת�Ƶ�level999�ķ���",
+      "item_group.backrooms.backrooms_items": "物品",
+      "item.backrooms.pobu": "破布",
+      "block.backrooms.level_14leaves": "美丽",
+      "block.backrooms.level_14treegan": "完美",
+      "item.backrooms.level_0": "ͨ��Level 0����Կ(����ר��)",
+      "item_group.backrooms.the_backroomsjiafangkuai": "The Backrooms切出方块",
+      "item.backrooms.chuizi": "锤子",
+      "itemGroup.tabcommon_thing": "生存物品",
+      "block.backrooms.level_3qiangbizhitiedi": "Level 3qiangbizhitiedi",
+      "block.backrooms.level_1qiangbikailie": "破损的Level1的墙壁",
+      "item.backrooms.entity_10qiepizhe_spawn_egg": "窃皮者 Spawn Egg",
+      "block.backrooms.level_3diban": "Level 3diban",
+      "itemGroup.tabbackrooms": "The Backrooms",
+      "item.backrooms.superxrs": "超级杏仁水",
+      "block.backrooms.level_1qiangbitiezhitop": "Level1的墙壁(黄黑贴纸)(顶端)",
+      "item.backrooms.gaoerfuqiubang": "棒球棍",
+      "item.backrooms.bengdai": "绷带",
+      "block.backrooms.level_0o_2qiangbi": "Level0.2的墙壁/天花板",
+      "item.backrooms.run": "Level!",
+      "subtitles.cosk": "",
+      "item.backrooms.lvshuguantou": "绿蔬罐头",
+      "item_group.backrooms.backrooms": "The Backrooms",
+      "block.backrooms.bangongyi": "办公椅",
+      "item.backrooms.colaempty": "空的可乐易拉罐",
+      "biome.backrooms.leveltanhaoswqx": "Air",
+      "subtitles.ikungoldsong": "Because You It\u0027s So Beautiful",
+      "item.backrooms.five_cents": "5美分",
+      "block.backrooms.jlevel_1qiangbi": "Level1的墙壁(切出)",
+      "entity.backrooms.entity_9wumianlin": "成年无面灵",
+      "painting.backrooms.level_0firstpicture.author": "Unknown",
+      "block.backrooms.level_1qiangbiwithf": "带有\"F\"字母的Level1的墙壁",
+      "item.backrooms.uschool.desc": "BlueArchiveMusic—Unwelcome School",
+      "item_group.backrooms.common_thing": "生存物品",
+      "subtitles.o": "",
+      "item.backrooms.ssxs": "肾上腺素",
+      "item.backrooms.one_dollar": "1美元",
+      "block.backrooms.jlevel_0qiangzhi": "level0的墙纸(切出)",
+      "block.backrooms.level_0qiangzhi": "Level0的墙纸",
+      "item.backrooms.entity_9wumianlin_spawn_egg": "成年无面灵 Spawn Egg",
+      "item.backrooms.bluearchivemusic_unwelcomeschool": "BlueArchiveMusic—Unwelcome School",
+      "item.backrooms.dreamcore_1.desc": "Hey Kids - Monila",
+      "itemGroup.tabbackrooms_items": "物品",
+      "item.backrooms.bluearchivemusic_rabbitdance": "BlueArchiveMusic—Rabbit Dance",
+      "block.backrooms.level_2shuiguanzhuanwan": "Level2的水管(转弯处)",
+      "item.backrooms.rouguantoukong": "空的肉罐头",
+      "biome.backrooms.level_9heiye": "Level 9heiye",
+      "block.backrooms.level_1shuiguan_thui": "Level1的水管(T字形)",
+      "subtitles.run": "",
+      "itemGroup.tabthe_backroomsjiafangkuai": "The Backrooms切出方块",
+      "item.backrooms.xincunzhe_spawn_egg": "流浪者 Spawn Egg",
+      "biome.backrooms.level_10": "Level10",
+      "item.backrooms.i_kun_gold_song.desc": "ikun Gold Song",
+      "block.backrooms.level_0tianhuaban": "Level0的天花板",
+      "biome.backrooms.ourhome": "Ourhome",
+      "entity.backrooms.xincunzhe": "流浪者",
+      "subtitles.entity8_liequan": "��Ȯ������",
+      "block.backrooms.level_1qiangbitiezhi": "Level1的墙壁(黄黑贴纸)",
+      "block.backrooms.me_gfangdanboli": "防弹玻璃",
+      "item.backrooms.entity_8liequan_spawn_egg": "猎犬 Spawn Egg",
+      "subtitles.smiler2": "΢Ц��:�ε�",
+      "subtitles.smiler1": "΢Ц��:�ε�",
+      "item_group.backrooms.spblocks": "Teleport Block",
+      "item.backrooms.bluearchivemusic_unwelcomeschool.desc": "BlueArchiveMusic—Unwelcome School",
+      "block.backrooms.level_0lights": "Level0的日光灯",
+      "item.backrooms.cs": "BlueArchiveMusic—Connected Sky",
+      "block.backrooms.level_998skydiban_3": "Level998的地面(区域三)",
+      "item.backrooms.fruitsdao": "水果刀",
+      "block.backrooms.level_0o_2qiangbitiedi": "Level0.2的墙壁(靠近地毯处)",
+      "item.backrooms.lsspempty": "空的薯片盒子",
+      "block.backrooms.level_1shuiguanshizi": "Level1的水管(十字形)",
+      "painting.backrooms.level_1firstpicture.author": "Unknown",
+      "biome.backrooms.level_998swqx": "Level 998swqx",
+      "item.backrooms.six_forty_seven.desc": "Six Forty Seven - Instupendo",
+      "item.backrooms.caidao": "菜刀",
+      "item.backrooms.entity_15beishi_spawn_egg": "悲尸 Spawn Egg",
+      "block.backrooms.level_4tianhuabanwithoutled": "没有LED灯的Level4的天花板",
+      "block.backrooms.level_4tianhuaban": "Level4的天花板",
+      "item.backrooms.dreamcore_1": "Dreamcore 1",
+      "item.backrooms.object_1xrs": "杏仁水",
+      "subtitles.leveltanhao": "",
+      "block.backrooms.miehuoqi": "灭火器",
+      "itemGroup.tabspblocks": "Teleport Block",
+      "item.backrooms.rrouguantou": "肉罐头",
+      "block.backrooms.level_0qiangzhitiedi": "Level0的墙纸(靠近地毯处)",
+      "item.backrooms.lssp": "薯片",
+      "subtitles.smiler": "΢Ц��:����Ŀ��",
+      "subtitles.six_forty_seven": "Six Forty Seven - Instupendo",
+      "block.backrooms.level_2diban": "Level2的地板/天花板",
+      "block.backrooms.level_1shuiguanzwhui": "Level1的水管(转弯处)",
+      "item.backrooms.six_forty_seven": "Six Forty Seven - Instupendo",
+      "block.backrooms.sunlights": "日光灯",
+      "subtitles.heykids": "Hey Kids - Monila",
+      "entity.backrooms.entity_8liequan": "猎犬",
+      "block.backrooms.level_1shuiguanhui": "Level1的水管",
+      "item.backrooms.object_16hjkl": "皇家口粮",
+      "block.backrooms.level_1qiangbi": "Level1的墙壁/地板/天花板",
+      "block.backrooms.level_0o_2ditan": "Level0.2的红色干燥地毯",
+      "entity.backrooms.entity_3smiler": "笑魇",
+      "item.backrooms.lvshuguantoukong": "空的绿蔬罐头",
+      "block.backrooms.jlevel_1qiangbiwhite": "白色的Level1的墙壁(切出)",
+      "block.backrooms.exit": "EXIT",
+      "item.backrooms.object_5tgyouhaifeiliao": "糖果",
+      "item.backrooms.run.desc": "Level!",
+      "entity.backrooms.entity_10qiepizhe": "窃皮者"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "level0",
+        "children": [
+          {
+            "name": "jia_blocks",
+            "children": []
+          },
+          {
+            "name": "level0.1",
+            "children": []
+          },
+          {
+            "name": "level0.2",
+            "children": []
+          },
+          {
+            "name": "level0.3",
+            "children": []
+          },
+          {
+            "name": "manila_room",
+            "children": []
+          },
+          {
+            "name": "jiegou",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "tongyongwuping",
+        "children": [
+          {
+            "name": "Object 1xrs",
+            "children": []
+          },
+          {
+            "name": "Object 5tg",
+            "children": [
+              {
+                "name": "youhaifeiliao",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Object 16hjkl",
+            "children": []
+          },
+          {
+            "name": "Object 2LevelKey",
+            "children": []
+          },
+          {
+            "name": "Object 12LiquidPain",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "zaxiang",
+        "children": []
+      },
+      {
+        "name": "level1",
+        "children": [
+          {
+            "name": "jia_blocks",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "commonthing",
+        "children": []
+      },
+      {
+        "name": "Entities",
+        "children": [
+          {
+            "name": "yaoshuixiaoguo",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "level2",
+        "children": []
+      },
+      {
+        "name": "level7",
+        "children": []
+      },
+      {
+        "name": "level10",
+        "children": []
+      },
+      {
+        "name": "leveltanhao",
+        "children": []
+      },
+      {
+        "name": "level188",
+        "children": []
+      },
+      {
+        "name": "spblock",
+        "children": []
+      },
+      {
+        "name": "level998",
+        "children": []
+      },
+      {
+        "name": "alltheendyouaresolucky",
+        "children": []
+      },
+      {
+        "name": "levelfun",
+        "children": []
+      },
+      {
+        "name": "level14",
+        "children": [
+          {
+            "name": "level14trees",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "leveltheend",
+        "children": []
+      },
+      {
+        "name": "level6",
+        "children": []
+      },
+      {
+        "name": "level999",
+        "children": []
+      },
+      {
+        "name": "level4",
+        "children": []
+      },
+      {
+        "name": "level5",
+        "children": []
+      },
+      {
+        "name": "level8",
+        "children": []
+      },
+      {
+        "name": "level3",
+        "children": []
+      },
+      {
+        "name": "level9",
+        "children": []
+      },
+      {
+        "name": "Music",
+        "children": []
+      },
+      {
+        "name": "level12",
+        "children": []
+      },
+      {
+        "name": "level94 is this a animation",
+        "children": []
+      },
+      {
+        "name": "level30 chaoyuexianshi",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "backrooms",
+    "modName": "backrooms",
+    "version": "0.6.5.0",
+    "description": "If you\u0027re not careful and no-clip out of reality in wrong areas, you\u0027ll end up in the Backrooms, where it\u0027s nothing but the stink of moist carpet, the madness of mono-yellow, and endless background noise of fluorescent lights at maximum hum-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in. God save you if you hear something wandering around nearby, because it sure as hell has heard you…",
+    "author": "0or1or5eimouren, dygm, [I can\u0027t read letters]Dmourem",
+    "websiteURL": "ftp://[2408:821a:7612:a1c0:696c:a3d6:f143:eb94]:1145",
+    "license": "I can\u0027t read Licenses",
+    "serverSideOnly": false,
+    "modPicture": "backrooms",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Mcreator-https://mcreator.net",
+    "modElementsPackage": "net.mcreator.backrooms"
+  },
+  "mcreatorVersion": 202400452410
+}

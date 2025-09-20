@@ -1,0 +1,11 @@
+{
+  "_fv": 73,
+  "_type": "painting",
+  "definition": {
+    "texture": "level1.png",
+    "width": 800,
+    "height": 600,
+    "title": "Level 1firstpicture",
+    "author": "Unknown"
+  }
+}

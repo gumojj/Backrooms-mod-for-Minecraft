@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "backrooms:l_10tiejiangkua_2",
+  "step": "surface_structures"
+}

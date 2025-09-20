@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "backrooms:block/level_1qiangbitiezhitop"
+    },
+    "facing=east": {
+      "model": "backrooms:block/level_1qiangbitiezhitop",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "backrooms:block/level_1qiangbitiezhitop",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "backrooms:block/level_1qiangbitiezhitop",
+      "y": 270
+    }
+  }
+}

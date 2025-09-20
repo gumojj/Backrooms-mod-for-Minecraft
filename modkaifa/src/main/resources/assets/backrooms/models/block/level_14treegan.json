@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "backrooms:block/level14treesin",
+    "up": "backrooms:block/level14treesin",
+    "north": "backrooms:block/level14treesout",
+    "east": "backrooms:block/level14treesout",
+    "south": "backrooms:block/level14treesout",
+    "west": "backrooms:block/level14treesout",
+    "particle": "backrooms:block/level14treesin"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,77 @@
+{
+  "o": {
+    "sounds": [
+      {
+        "name": "backrooms:i_wasnt_aloud_to_watch_whose_line_as_a_kid_but_i_think_its_pretty_good_now",
+        "stream": true
+      }
+    ]
+  },
+  "rabbitd": {
+    "sounds": [
+      {
+        "name": "backrooms:bluearchivemusic--rabbit_dance",
+        "stream": true
+      }
+    ]
+  },
+  "run": {
+    "sounds": [
+      {
+        "name": "backrooms:level",
+        "stream": true
+      }
+    ]
+  },
+  "cosk": {
+    "sounds": [
+      {
+        "name": "backrooms:bluearchivemusic--connected_sky",
+        "stream": true
+      }
+    ]
+  },
+  "us": {
+    "sounds": [
+      {
+        "name": "backrooms:bluearchivemusic--unwelcome_school",
+        "stream": true
+      }
+    ]
+  },
+  "backroomsmusic": {
+    "sounds": [
+      {
+        "name": "backrooms:backroomsmusic",
+        "stream": true
+      }
+    ]
+  },
+  "six_forty_seven": {
+    "subtitle": "subtitles.six_forty_seven",
+    "sounds": [
+      {
+        "name": "backrooms:six_forty_seven",
+        "stream": false
+      }
+    ]
+  },
+  "ikungoldsong": {
+    "subtitle": "subtitles.ikungoldsong",
+    "sounds": [
+      {
+        "name": "backrooms:ikunjinqu_-_av388268184",
+        "stream": true
+      }
+    ]
+  },
+  "heykids": {
+    "subtitle": "subtitles.heykids",
+    "sounds": [
+      {
+        "name": "backrooms:010c_540e_0352_6f3e07f41ccddceb8dde48278d0ac491",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "backrooms:block/level0o2ditan",
+    "up": "backrooms:block/level0o2ditan",
+    "north": "backrooms:block/level0o2ditan",
+    "east": "backrooms:block/level0o2ditan",
+    "south": "backrooms:block/level0o2ditan",
+    "west": "backrooms:block/level0o2ditan",
+    "particle": "backrooms:block/level0o2ditan"
+  },
+  "render_type": "solid"
+}

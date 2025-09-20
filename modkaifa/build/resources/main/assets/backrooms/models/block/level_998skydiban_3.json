@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "backrooms:block/level998skydiban3",
+    "up": "backrooms:block/level998skydiban3",
+    "north": "backrooms:block/level998skydiban3",
+    "east": "backrooms:block/level998skydiban3",
+    "south": "backrooms:block/level998skydiban3",
+    "west": "backrooms:block/level998skydiban3",
+    "particle": "backrooms:block/level998skydiban3"
+  },
+  "render_type": "solid"
+}

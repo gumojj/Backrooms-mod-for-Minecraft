@@ -1,0 +1,9 @@
+{
+  "parent": "backrooms:custom/exit",
+  "textures": {
+    "all": "backrooms:block/exit",
+    "particle": "backrooms:block/exit",
+    "0": "backrooms:block/exit"
+  },
+  "render_type": "solid"
+}

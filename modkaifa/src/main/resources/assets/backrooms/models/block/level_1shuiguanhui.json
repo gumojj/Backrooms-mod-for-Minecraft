@@ -1,0 +1,9 @@
+{
+  "parent": "backrooms:custom/level1shuiguan",
+  "textures": {
+    "all": "backrooms:block/level1guandao",
+    "particle": "backrooms:block/level1guandao",
+    "0": "backrooms:block/level1guandao"
+  },
+  "render_type": "cutout"
+}

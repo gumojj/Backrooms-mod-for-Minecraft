@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "backrooms:block/level_1shuiguanshizi"
+    },
+    "facing=east": {
+      "model": "backrooms:block/level_1shuiguanshizi",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "backrooms:block/level_1shuiguanshizi",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "backrooms:block/level_1shuiguanshizi",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "backrooms:block/level_1shuiguanshizi",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "backrooms:block/level_1shuiguanshizi",
+      "x": 90
+    }
+  }
+}

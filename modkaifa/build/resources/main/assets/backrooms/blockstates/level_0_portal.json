@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "backrooms:block/level_0_portal_ew"
+    },
+    "axis=x": {
+      "model": "backrooms:block/level_0_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "backrooms:block/level4tianhuaban",
+    "up": "backrooms:block/level4tianhuaban",
+    "north": "backrooms:block/level4tianhuaban",
+    "east": "backrooms:block/level4tianhuaban",
+    "south": "backrooms:block/level4tianhuaban",
+    "west": "backrooms:block/level4tianhuaban",
+    "particle": "backrooms:block/level4tianhuaban"
+  },
+  "render_type": "solid"
+}

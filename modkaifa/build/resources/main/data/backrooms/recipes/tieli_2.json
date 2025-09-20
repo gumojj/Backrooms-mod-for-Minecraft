@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "backrooms:lvshuguantoukong"
+    }
+  ],
+  "result": {
+    "item": "minecraft:iron_nugget",
+    "count": 1
+  }
+}

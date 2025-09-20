@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "backrooms:block/jlevel_1qiangbi"
+    },
+    "facing=east": {
+      "model": "backrooms:block/jlevel_1qiangbi",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "backrooms:block/jlevel_1qiangbi",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "backrooms:block/jlevel_1qiangbi",
+      "y": 270
+    }
+  }
+}

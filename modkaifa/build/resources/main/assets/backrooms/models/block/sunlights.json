@@ -1,0 +1,9 @@
+{
+  "parent": "backrooms:custom/sunlights",
+  "textures": {
+    "all": "backrooms:block/sunlights",
+    "particle": "backrooms:block/sunlights",
+    "0": "backrooms:block/sunlights"
+  },
+  "render_type": "solid"
+}

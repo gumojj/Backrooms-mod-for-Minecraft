@@ -1,0 +1,11 @@
+{
+  "_fv": 73,
+  "_type": "tab",
+  "definition": {
+    "name": "物品",
+    "icon": {
+      "value": "CUSTOM:Superxrs"
+    },
+    "showSearch": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "backrooms:block/level998tootherlevels",
+    "up": "backrooms:block/level998tootherlevels",
+    "north": "backrooms:block/level998tootherlevels",
+    "east": "backrooms:block/level998tootherlevels",
+    "south": "backrooms:block/level998tootherlevels",
+    "west": "backrooms:block/level998tootherlevels",
+    "particle": "backrooms:block/level998tootherlevels"
+  },
+  "render_type": "solid"
+}

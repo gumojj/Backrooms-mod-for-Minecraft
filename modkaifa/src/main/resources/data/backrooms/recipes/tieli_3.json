@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "backrooms:colaempty"
+    }
+  },
+  "result": {
+    "item": "minecraft:iron_nugget",
+    "count": 1
+  }
+}

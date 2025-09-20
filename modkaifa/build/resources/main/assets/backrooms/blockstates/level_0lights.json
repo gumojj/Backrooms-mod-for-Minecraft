@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "backrooms:block/level_0lights"
+    },
+    "facing=east": {
+      "model": "backrooms:block/level_0lights",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "backrooms:block/level_0lights",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "backrooms:block/level_0lights",
+      "y": 270
+    }
+  }
+}

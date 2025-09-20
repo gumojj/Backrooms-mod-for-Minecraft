@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "backrooms:block/exit"
+    },
+    "facing=east": {
+      "model": "backrooms:block/exit",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "backrooms:block/exit",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "backrooms:block/exit",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "backrooms:block/exit",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "backrooms:block/exit",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "backrooms:custom/level2shuiguan",
+  "textures": {
+    "all": "backrooms:block/level2shuiguan",
+    "particle": "backrooms:block/level2shuiguan",
+    "0": "backrooms:block/level2shuiguan"
+  },
+  "render_type": "solid"
+}

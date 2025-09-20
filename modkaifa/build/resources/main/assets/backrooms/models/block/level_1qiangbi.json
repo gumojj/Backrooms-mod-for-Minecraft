@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "backrooms:block/level1qiangbi_qiezhi_top_2",
+    "up": "backrooms:block/level1qiangbi_qiezhi_top_2",
+    "north": "backrooms:block/level1qiangbi_qiezhi_top_2",
+    "east": "backrooms:block/level1qiangbi_qiezhi_top_2",
+    "south": "backrooms:block/level1qiangbi_qiezhi_top_2",
+    "west": "backrooms:block/level1qiangbi_qiezhi_top_2",
+    "particle": "backrooms:block/level1qiangbi_qiezhi_top_2"
+  },
+  "render_type": "solid"
+}
